@@ -1,0 +1,67 @@
+TECHNICAL GUIDE
+FREE Interior Small Fantasy Builder Pack | Version 1.0
+
+GRID AND ORIGINS
+The construction grid is 16x16. Each individual image canvas uses multiples of 16.
+Catalogue originX/originY describes a bottom-centre origin in local image pixels.
+For example a 16x32 sprite has origin (8,32); its bottom edge lies on the room grid.
+Keep integer camera positions and integer zoom for crisp display.
+
+WALL TOPOLOGY
+Within each wall material's 20 entries, offsets 0–15 use a four-bit cardinal mask:
+North=1, East=2, South=4, West=8. Sum the bits for neighbouring wall tiles.
+Mask 0 is an isolated post, 5 is a north/south run, 10 an east/west run,
+15 a four-way junction. Corners and T junctions use the corresponding bit sum.
+Offsets 16–19 are full face panels: plain, cracked, mossy, and recessed.
+Use face panels below a north wall cap to make a taller room wall.
+This is a 16-case cardinal system, not a 47-case blob or RPG Maker autotile format.
+
+FLOOR TOPOLOGY
+Floor offsets 0–15 use the same neighbour bits for neighbouring floor of the SAME
+material. Missing neighbours add a border. Mask 15 is the plain surrounded centre.
+Offsets 16–19 are four lightly varied interior tiles. They share the same perimeter.
+Each material's top, bottom, left and right alternatives can be selected by mask.
+Floor borders are manual tiles; automatic painting rules are not included.
+
+ATLASES
+Walls.png and Floors.png: 320x160, 20 columns, 16px cells, no spacing or margins.
+Each row is one material; columns 0–15 are masks, 16–19 are detail alternatives.
+Furniture, Interior Props, Dungeon and Arcane atlases: 48x48 slots, 10 columns.
+All Assets 48px Slots.png: 960x2400, 20 columns, 50 rows.
+Within each slot the original sprite canvas is bottom-aligned and centred.
+The companion JSON gives the exact native rectangle, ID, source file and origin.
+Atlas copies are identical to the individual PNGs. Larger assets must not be
+blindly sliced into 16px icons; use JSON frames or the Tiled collection instead.
+
+IDS
+0001–0200 Walls; 0201–0400 Floors; 0401–0600 Furniture.
+0601–0750 Interior Props; 0751–0900 Dungeon; 0901–1000 Arcane.
+The mixed-size Tiled collection tile ID is catalogue ID minus one.
+The example maps use firstgid=1, so their GID equals catalogue ID.
+Independent wall/floor tilesets use local IDs 0–199.
+
+TILED MAPS
+The included TSX collection references individual PNGs by relative path.
+Keep the complete folder tree when copying the maps to another location.
+Maps separate Floors, Walls, Floor Details, and Furniture and Props.
+Image objects use bottom-left anchoring; their x coordinate is already adjusted
+from each sprite's catalogue bottom-centre origin. Maps have no collision shapes.
+The examples are finite orthogonal 32x22 maps on a 16px grid.
+
+ENGINE IMPORT
+PNG files can be imported by tools that support transparent raster sprites.
+For a clean starting point use nearest-neighbour filtering, no smoothing,
+and no mipmaps for pixel art. Add collision, sorting, light and interaction rules
+for your own engine. Native engine projects and automatic terrain rules are
+not included. Compatibility is based on the PNG/JSON/XML formats, not on testing
+inside every engine.
+
+PALETTE
+Prop Palette.gpl contains the 128-colour shared prop palette. Wall and floor
+materials use separate material palettes. Transparent pixels do not count as
+visible colours. All native sprites use fully opaque or fully transparent alpha.
+
+SCREENSHOTS
+01–03 are exact 3x nearest-neighbour renders of the supplied example rooms,
+with captions outside the game canvas. 04–05 show actual exported assets.
+The promotional cover, banner and page background are separate illustrations.

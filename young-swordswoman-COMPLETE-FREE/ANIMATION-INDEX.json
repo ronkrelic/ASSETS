@@ -1,0 +1,93 @@
+{
+  "Idle": {
+    "south": 9,
+    "south-east": 9,
+    "east": 9,
+    "north-east": 9,
+    "north": 8,
+    "north-west": 9,
+    "west": 9,
+    "south-west": 9
+  },
+  "Recoil": {
+    "south": 9,
+    "south-east": 9,
+    "east": 9,
+    "north-east": 9,
+    "north": 9,
+    "north-west": 9,
+    "west": 9,
+    "south-west": 9
+  },
+  "Jump": {
+    "south": 9,
+    "south-east": 9,
+    "east": 9,
+    "north-east": 9,
+    "north": 9,
+    "north-west": 9,
+    "west": 9,
+    "south-west": 9
+  },
+  "Overhead_Slash": {
+    "south": 9,
+    "south-east": 9,
+    "east": 9,
+    "north-east": 8,
+    "north-east-alternate-1": 8,
+    "north": 9,
+    "north-west": 8,
+    "west": 9,
+    "south-west": 9
+  },
+  "Spell_Chant": {
+    "south": 9,
+    "south-east": 9,
+    "east": 9,
+    "north-east": 9,
+    "north": 9,
+    "north-west": 9,
+    "west": 9,
+    "south-west": 9
+  },
+  "Run": {
+    "south": 8,
+    "south-east": 8,
+    "east": 7,
+    "north-east": 8,
+    "north": 8,
+    "north-west": 8,
+    "west": 7,
+    "south-west": 8
+  },
+  "Downward_Sword_Slash": {
+    "south": 17,
+    "south-east": 9,
+    "east": 9,
+    "north-east": 15,
+    "north": 14,
+    "north-west": 16,
+    "west": 9,
+    "south-west": 9
+  },
+  "Rising_Sword_Slash": {
+    "south": 9,
+    "south-east": 9,
+    "east": 9,
+    "north-east": 16,
+    "north": 16,
+    "north-west": 16,
+    "west": 9,
+    "south-west": 9
+  },
+  "Walk": {
+    "south": 8,
+    "south-east": 8,
+    "east": 8,
+    "north-east": 9,
+    "north": 8,
+    "north-west": 9,
+    "west": 8,
+    "south-west": 8
+  }
+}

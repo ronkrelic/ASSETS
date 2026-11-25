@@ -1,0 +1,2110 @@
+{
+  "image": "Dungeon.png",
+  "width": 480,
+  "height": 720,
+  "slotWidth": 48,
+  "slotHeight": 48,
+  "columns": 10,
+  "frames": {
+    "751": {
+      "name": "Dungeon Stairs Descending North",
+      "frame": {
+        "x": 8,
+        "y": 16,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0751 Dungeon Stairs Descending North.png"
+    },
+    "752": {
+      "name": "Dungeon Stairs Descending South",
+      "frame": {
+        "x": 56,
+        "y": 16,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0752 Dungeon Stairs Descending South.png"
+    },
+    "753": {
+      "name": "Dungeon Stairs Descending East",
+      "frame": {
+        "x": 104,
+        "y": 16,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0753 Dungeon Stairs Descending East.png"
+    },
+    "754": {
+      "name": "Dungeon Stairs Descending West",
+      "frame": {
+        "x": 152,
+        "y": 16,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0754 Dungeon Stairs Descending West.png"
+    },
+    "755": {
+      "name": "Stone Ladder Shaft",
+      "frame": {
+        "x": 208,
+        "y": 16,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0755 Stone Ladder Shaft.png"
+    },
+    "756": {
+      "name": "Rope Ladder Shaft",
+      "frame": {
+        "x": 256,
+        "y": 16,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0756 Rope Ladder Shaft.png"
+    },
+    "757": {
+      "name": "Square Open Trapdoor",
+      "frame": {
+        "x": 296,
+        "y": 16,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0757 Square Open Trapdoor.png"
+    },
+    "758": {
+      "name": "Square Closed Trapdoor",
+      "frame": {
+        "x": 344,
+        "y": 16,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0758 Square Closed Trapdoor.png"
+    },
+    "759": {
+      "name": "Round Open Hatch",
+      "frame": {
+        "x": 392,
+        "y": 16,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0759 Round Open Hatch.png"
+    },
+    "760": {
+      "name": "Round Closed Hatch",
+      "frame": {
+        "x": 440,
+        "y": 16,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0760 Round Closed Hatch.png"
+    },
+    "761": {
+      "name": "Stone Pillar Base",
+      "frame": {
+        "x": 16,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0761 Stone Pillar Base.png"
+    },
+    "762": {
+      "name": "Cracked Stone Pillar",
+      "frame": {
+        "x": 64,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0762 Cracked Stone Pillar.png"
+    },
+    "763": {
+      "name": "Broken Column",
+      "frame": {
+        "x": 112,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0763 Broken Column.png"
+    },
+    "764": {
+      "name": "Carved Column",
+      "frame": {
+        "x": 160,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0764 Carved Column.png"
+    },
+    "765": {
+      "name": "Tall Stone Pillar",
+      "frame": {
+        "x": 208,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0765 Tall Stone Pillar.png"
+    },
+    "766": {
+      "name": "Skull Pillar",
+      "frame": {
+        "x": 256,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0766 Skull Pillar.png"
+    },
+    "767": {
+      "name": "Wall Buttress",
+      "frame": {
+        "x": 304,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0767 Wall Buttress.png"
+    },
+    "768": {
+      "name": "Stone Archway",
+      "frame": {
+        "x": 344,
+        "y": 48,
+        "w": 32,
+        "h": 48
+      },
+      "origin": {
+        "x": 16,
+        "y": 48
+      },
+      "source": "Sprites/Dungeon/0768 Stone Archway.png"
+    },
+    "769": {
+      "name": "Low Stone Barricade",
+      "frame": {
+        "x": 400,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0769 Low Stone Barricade.png"
+    },
+    "770": {
+      "name": "Heavy Wooden Barricade",
+      "frame": {
+        "x": 448,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0770 Heavy Wooden Barricade.png"
+    },
+    "771": {
+      "name": "Floor Spike Trap Retracted",
+      "frame": {
+        "x": 16,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0771 Floor Spike Trap Retracted.png"
+    },
+    "772": {
+      "name": "Floor Spike Trap Extended",
+      "frame": {
+        "x": 64,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0772 Floor Spike Trap Extended.png"
+    },
+    "773": {
+      "name": "Circular Saw Trap",
+      "frame": {
+        "x": 112,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0773 Circular Saw Trap.png"
+    },
+    "774": {
+      "name": "Pressure Plate",
+      "frame": {
+        "x": 160,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0774 Pressure Plate.png"
+    },
+    "775": {
+      "name": "Stone Push Button",
+      "frame": {
+        "x": 208,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0775 Stone Push Button.png"
+    },
+    "776": {
+      "name": "Lever Upright",
+      "frame": {
+        "x": 256,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0776 Lever Upright.png"
+    },
+    "777": {
+      "name": "Lever Pulled",
+      "frame": {
+        "x": 304,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0777 Lever Pulled.png"
+    },
+    "778": {
+      "name": "Chain Pulley",
+      "frame": {
+        "x": 352,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0778 Chain Pulley.png"
+    },
+    "779": {
+      "name": "Winch",
+      "frame": {
+        "x": 400,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0779 Winch.png"
+    },
+    "780": {
+      "name": "Rotating Blade Trap",
+      "frame": {
+        "x": 448,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0780 Rotating Blade Trap.png"
+    },
+    "781": {
+      "name": "Pile Of Bones",
+      "frame": {
+        "x": 16,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0781 Pile Of Bones.png"
+    },
+    "782": {
+      "name": "Humanoid Skull",
+      "frame": {
+        "x": 64,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0782 Humanoid Skull.png"
+    },
+    "783": {
+      "name": "Ribcage",
+      "frame": {
+        "x": 104,
+        "y": 160,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0783 Ribcage.png"
+    },
+    "784": {
+      "name": "Full Skeleton Remains",
+      "frame": {
+        "x": 152,
+        "y": 160,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0784 Full Skeleton Remains.png"
+    },
+    "785": {
+      "name": "Animal Skull",
+      "frame": {
+        "x": 208,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0785 Animal Skull.png"
+    },
+    "786": {
+      "name": "Broken Pottery Shards",
+      "frame": {
+        "x": 256,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0786 Broken Pottery Shards.png"
+    },
+    "787": {
+      "name": "Pile Of Rubble",
+      "frame": {
+        "x": 304,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0787 Pile Of Rubble.png"
+    },
+    "788": {
+      "name": "Loose Stone Heap",
+      "frame": {
+        "x": 352,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0788 Loose Stone Heap.png"
+    },
+    "789": {
+      "name": "Dungeon Chains",
+      "frame": {
+        "x": 400,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0789 Dungeon Chains.png"
+    },
+    "790": {
+      "name": "Wall Shackles",
+      "frame": {
+        "x": 448,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0790 Wall Shackles.png"
+    },
+    "791": {
+      "name": "Wooden Coffin Closed",
+      "frame": {
+        "x": 8,
+        "y": 208,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0791 Wooden Coffin Closed.png"
+    },
+    "792": {
+      "name": "Wooden Coffin Open",
+      "frame": {
+        "x": 56,
+        "y": 208,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0792 Wooden Coffin Open.png"
+    },
+    "793": {
+      "name": "Ancient Urn Sealed",
+      "frame": {
+        "x": 112,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0793 Ancient Urn Sealed.png"
+    },
+    "794": {
+      "name": "Ancient Urn Broken",
+      "frame": {
+        "x": 160,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0794 Ancient Urn Broken.png"
+    },
+    "795": {
+      "name": "Funerary Statue",
+      "frame": {
+        "x": 208,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0795 Funerary Statue.png"
+    },
+    "796": {
+      "name": "Gravestone Round",
+      "frame": {
+        "x": 256,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0796 Gravestone Round.png"
+    },
+    "797": {
+      "name": "Gravestone Cross",
+      "frame": {
+        "x": 304,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0797 Gravestone Cross.png"
+    },
+    "798": {
+      "name": "Gravestone Obelisk",
+      "frame": {
+        "x": 352,
+        "y": 208,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0798 Gravestone Obelisk.png"
+    },
+    "799": {
+      "name": "Stone Burial Niche",
+      "frame": {
+        "x": 400,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0799 Stone Burial Niche.png"
+    },
+    "800": {
+      "name": "Stone Tomb Slab",
+      "frame": {
+        "x": 440,
+        "y": 208,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0800 Stone Tomb Slab.png"
+    },
+    "801": {
+      "name": "Slime Puddle Green",
+      "frame": {
+        "x": 16,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0801 Slime Puddle Green.png"
+    },
+    "802": {
+      "name": "Slime Puddle Purple",
+      "frame": {
+        "x": 64,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0802 Slime Puddle Purple.png"
+    },
+    "803": {
+      "name": "Water Puddle",
+      "frame": {
+        "x": 112,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0803 Water Puddle.png"
+    },
+    "804": {
+      "name": "Blood-free Rust Stain",
+      "frame": {
+        "x": 160,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0804 Blood-free Rust Stain.png"
+    },
+    "805": {
+      "name": "Moss Floor Patch",
+      "frame": {
+        "x": 208,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0805 Moss Floor Patch.png"
+    },
+    "806": {
+      "name": "Lichen Wall Patch",
+      "frame": {
+        "x": 256,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0806 Lichen Wall Patch.png"
+    },
+    "807": {
+      "name": "Spider Web Corner",
+      "frame": {
+        "x": 304,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0807 Spider Web Corner.png"
+    },
+    "808": {
+      "name": "Spider Web Large",
+      "frame": {
+        "x": 352,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0808 Spider Web Large.png"
+    },
+    "809": {
+      "name": "Cracked Floor Slab",
+      "frame": {
+        "x": 400,
+        "y": 256,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0809 Cracked Floor Slab.png"
+    },
+    "810": {
+      "name": "Collapsed Floor Hole",
+      "frame": {
+        "x": 448,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0810 Collapsed Floor Hole.png"
+    },
+    "811": {
+      "name": "Iron-banded Treasure Chest",
+      "frame": {
+        "x": 16,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0811 Iron-banded Treasure Chest.png"
+    },
+    "812": {
+      "name": "Locked Copper Chest",
+      "frame": {
+        "x": 64,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0812 Locked Copper Chest.png"
+    },
+    "813": {
+      "name": "Locked Silver Chest",
+      "frame": {
+        "x": 112,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0813 Locked Silver Chest.png"
+    },
+    "814": {
+      "name": "Locked Gold Chest",
+      "frame": {
+        "x": 160,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0814 Locked Gold Chest.png"
+    },
+    "815": {
+      "name": "Ornate Ruby Chest",
+      "frame": {
+        "x": 208,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0815 Ornate Ruby Chest.png"
+    },
+    "816": {
+      "name": "Ornate Emerald Chest",
+      "frame": {
+        "x": 256,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0816 Ornate Emerald Chest.png"
+    },
+    "817": {
+      "name": "Trapped Chest",
+      "frame": {
+        "x": 304,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0817 Trapped Chest.png"
+    },
+    "818": {
+      "name": "Broken Chest",
+      "frame": {
+        "x": 352,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0818 Broken Chest.png"
+    },
+    "819": {
+      "name": "Treasure Mound",
+      "frame": {
+        "x": 392,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0819 Treasure Mound.png"
+    },
+    "820": {
+      "name": "Dragon Hoard Pile",
+      "frame": {
+        "x": 440,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0820 Dragon Hoard Pile.png"
+    },
+    "821": {
+      "name": "Lit Brazier",
+      "frame": {
+        "x": 16,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0821 Lit Brazier.png"
+    },
+    "822": {
+      "name": "Unlit Brazier",
+      "frame": {
+        "x": 64,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0822 Unlit Brazier.png"
+    },
+    "823": {
+      "name": "Wall Fire Torch",
+      "frame": {
+        "x": 112,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0823 Wall Fire Torch.png"
+    },
+    "824": {
+      "name": "Blue Fire Brazier",
+      "frame": {
+        "x": 160,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0824 Blue Fire Brazier.png"
+    },
+    "825": {
+      "name": "Green Fire Brazier",
+      "frame": {
+        "x": 208,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0825 Green Fire Brazier.png"
+    },
+    "826": {
+      "name": "Red Fire Brazier",
+      "frame": {
+        "x": 256,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0826 Red Fire Brazier.png"
+    },
+    "827": {
+      "name": "Large Standing Torch",
+      "frame": {
+        "x": 304,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0827 Large Standing Torch.png"
+    },
+    "828": {
+      "name": "Iron Lantern Stand",
+      "frame": {
+        "x": 352,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0828 Iron Lantern Stand.png"
+    },
+    "829": {
+      "name": "Hanging Cage Lantern",
+      "frame": {
+        "x": 392,
+        "y": 352,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0829 Hanging Cage Lantern.png"
+    },
+    "830": {
+      "name": "Skull Candle",
+      "frame": {
+        "x": 448,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0830 Skull Candle.png"
+    },
+    "831": {
+      "name": "Wooden Cage",
+      "frame": {
+        "x": 8,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0831 Wooden Cage.png"
+    },
+    "832": {
+      "name": "Iron Cage",
+      "frame": {
+        "x": 56,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0832 Iron Cage.png"
+    },
+    "833": {
+      "name": "Suspended Cage",
+      "frame": {
+        "x": 104,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0833 Suspended Cage.png"
+    },
+    "834": {
+      "name": "Bone Cage",
+      "frame": {
+        "x": 152,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0834 Bone Cage.png"
+    },
+    "835": {
+      "name": "Round Iron Grate",
+      "frame": {
+        "x": 208,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0835 Round Iron Grate.png"
+    },
+    "836": {
+      "name": "Square Iron Grate",
+      "frame": {
+        "x": 256,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0836 Square Iron Grate.png"
+    },
+    "837": {
+      "name": "Stone Drain",
+      "frame": {
+        "x": 304,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0837 Stone Drain.png"
+    },
+    "838": {
+      "name": "Iron Floor Hatch",
+      "frame": {
+        "x": 344,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0838 Iron Floor Hatch.png"
+    },
+    "839": {
+      "name": "Chain Barrier",
+      "frame": {
+        "x": 400,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0839 Chain Barrier.png"
+    },
+    "840": {
+      "name": "Wooden Prison Bars",
+      "frame": {
+        "x": 448,
+        "y": 400,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0840 Wooden Prison Bars.png"
+    },
+    "841": {
+      "name": "Weapon Stand Swords",
+      "frame": {
+        "x": 16,
+        "y": 448,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0841 Weapon Stand Swords.png"
+    },
+    "842": {
+      "name": "Weapon Stand Axes",
+      "frame": {
+        "x": 64,
+        "y": 448,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0842 Weapon Stand Axes.png"
+    },
+    "843": {
+      "name": "Spear Rack",
+      "frame": {
+        "x": 112,
+        "y": 448,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0843 Spear Rack.png"
+    },
+    "844": {
+      "name": "Shield Rack",
+      "frame": {
+        "x": 160,
+        "y": 448,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0844 Shield Rack.png"
+    },
+    "845": {
+      "name": "Loose Sword",
+      "frame": {
+        "x": 208,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0845 Loose Sword.png"
+    },
+    "846": {
+      "name": "Loose Battle Axe",
+      "frame": {
+        "x": 256,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0846 Loose Battle Axe.png"
+    },
+    "847": {
+      "name": "Loose Spear",
+      "frame": {
+        "x": 304,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0847 Loose Spear.png"
+    },
+    "848": {
+      "name": "Loose Mace",
+      "frame": {
+        "x": 352,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0848 Loose Mace.png"
+    },
+    "849": {
+      "name": "Loose Bow",
+      "frame": {
+        "x": 400,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0849 Loose Bow.png"
+    },
+    "850": {
+      "name": "Bundle Of Arrows",
+      "frame": {
+        "x": 448,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0850 Bundle Of Arrows.png"
+    },
+    "851": {
+      "name": "Armor Display",
+      "frame": {
+        "x": 16,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0851 Armor Display.png"
+    },
+    "852": {
+      "name": "Helmet On Stand",
+      "frame": {
+        "x": 64,
+        "y": 496,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0852 Helmet On Stand.png"
+    },
+    "853": {
+      "name": "Broken Shield",
+      "frame": {
+        "x": 112,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0853 Broken Shield.png"
+    },
+    "854": {
+      "name": "Broken Sword",
+      "frame": {
+        "x": 160,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0854 Broken Sword.png"
+    },
+    "855": {
+      "name": "Abandoned Backpack",
+      "frame": {
+        "x": 208,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0855 Abandoned Backpack.png"
+    },
+    "856": {
+      "name": "Adventurer Bedroll",
+      "frame": {
+        "x": 256,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0856 Adventurer Bedroll.png"
+    },
+    "857": {
+      "name": "Torn Tent Canvas",
+      "frame": {
+        "x": 304,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0857 Torn Tent Canvas.png"
+    },
+    "858": {
+      "name": "Miner Pickaxe",
+      "frame": {
+        "x": 352,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0858 Miner Pickaxe.png"
+    },
+    "859": {
+      "name": "Miner Shovel",
+      "frame": {
+        "x": 400,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0859 Miner Shovel.png"
+    },
+    "860": {
+      "name": "Miner Lantern",
+      "frame": {
+        "x": 448,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0860 Miner Lantern.png"
+    },
+    "861": {
+      "name": "Stone Cistern",
+      "frame": {
+        "x": 8,
+        "y": 544,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0861 Stone Cistern.png"
+    },
+    "862": {
+      "name": "Ancient Fountain",
+      "frame": {
+        "x": 56,
+        "y": 544,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0862 Ancient Fountain.png"
+    },
+    "863": {
+      "name": "Dry Fountain",
+      "frame": {
+        "x": 104,
+        "y": 544,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0863 Dry Fountain.png"
+    },
+    "864": {
+      "name": "Poison Basin",
+      "frame": {
+        "x": 152,
+        "y": 544,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0864 Poison Basin.png"
+    },
+    "865": {
+      "name": "Ritual Basin",
+      "frame": {
+        "x": 200,
+        "y": 544,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0865 Ritual Basin.png"
+    },
+    "866": {
+      "name": "Water Channel Straight",
+      "frame": {
+        "x": 256,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0866 Water Channel Straight.png"
+    },
+    "867": {
+      "name": "Water Channel Corner",
+      "frame": {
+        "x": 304,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0867 Water Channel Corner.png"
+    },
+    "868": {
+      "name": "Water Channel Crossing",
+      "frame": {
+        "x": 352,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0868 Water Channel Crossing.png"
+    },
+    "869": {
+      "name": "Sewer Outlet",
+      "frame": {
+        "x": 400,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0869 Sewer Outlet.png"
+    },
+    "870": {
+      "name": "Sewer Pipe",
+      "frame": {
+        "x": 448,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0870 Sewer Pipe.png"
+    },
+    "871": {
+      "name": "Minecart Empty",
+      "frame": {
+        "x": 8,
+        "y": 592,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0871 Minecart Empty.png"
+    },
+    "872": {
+      "name": "Minecart Loaded",
+      "frame": {
+        "x": 56,
+        "y": 592,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0872 Minecart Loaded.png"
+    },
+    "873": {
+      "name": "Rail Straight North South",
+      "frame": {
+        "x": 112,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0873 Rail Straight North South.png"
+    },
+    "874": {
+      "name": "Rail Straight East West",
+      "frame": {
+        "x": 160,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0874 Rail Straight East West.png"
+    },
+    "875": {
+      "name": "Rail Curve",
+      "frame": {
+        "x": 208,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0875 Rail Curve.png"
+    },
+    "876": {
+      "name": "Rail Crossing",
+      "frame": {
+        "x": 256,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0876 Rail Crossing.png"
+    },
+    "877": {
+      "name": "Rail Buffer",
+      "frame": {
+        "x": 304,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0877 Rail Buffer.png"
+    },
+    "878": {
+      "name": "Track Switch Lever",
+      "frame": {
+        "x": 352,
+        "y": 592,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0878 Track Switch Lever.png"
+    },
+    "879": {
+      "name": "Mining Powder Barrel",
+      "frame": {
+        "x": 400,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0879 Mining Powder Barrel.png"
+    },
+    "880": {
+      "name": "Ore Sack",
+      "frame": {
+        "x": 448,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0880 Ore Sack.png"
+    },
+    "881": {
+      "name": "Wooden Bridge Segment",
+      "frame": {
+        "x": 8,
+        "y": 640,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0881 Wooden Bridge Segment.png"
+    },
+    "882": {
+      "name": "Rope Bridge Segment",
+      "frame": {
+        "x": 56,
+        "y": 640,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0882 Rope Bridge Segment.png"
+    },
+    "883": {
+      "name": "Stone Bridge Segment",
+      "frame": {
+        "x": 104,
+        "y": 640,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0883 Stone Bridge Segment.png"
+    },
+    "884": {
+      "name": "Bridge End Cap",
+      "frame": {
+        "x": 152,
+        "y": 640,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0884 Bridge End Cap.png"
+    },
+    "885": {
+      "name": "Dock Plank Segment",
+      "frame": {
+        "x": 208,
+        "y": 656,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0885 Dock Plank Segment.png"
+    },
+    "886": {
+      "name": "Dungeon Platform",
+      "frame": {
+        "x": 248,
+        "y": 640,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0886 Dungeon Platform.png"
+    },
+    "887": {
+      "name": "Stone Pedestal",
+      "frame": {
+        "x": 304,
+        "y": 656,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0887 Stone Pedestal.png"
+    },
+    "888": {
+      "name": "Square Stone Plinth",
+      "frame": {
+        "x": 352,
+        "y": 656,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0888 Square Stone Plinth.png"
+    },
+    "889": {
+      "name": "Round Stone Plinth",
+      "frame": {
+        "x": 400,
+        "y": 656,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0889 Round Stone Plinth.png"
+    },
+    "890": {
+      "name": "Carved Obelisk",
+      "frame": {
+        "x": 448,
+        "y": 640,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0890 Carved Obelisk.png"
+    },
+    "891": {
+      "name": "Small Stalagmite",
+      "frame": {
+        "x": 16,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0891 Small Stalagmite.png"
+    },
+    "892": {
+      "name": "Large Stalagmite",
+      "frame": {
+        "x": 64,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0892 Large Stalagmite.png"
+    },
+    "893": {
+      "name": "Stalagmite Cluster",
+      "frame": {
+        "x": 112,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0893 Stalagmite Cluster.png"
+    },
+    "894": {
+      "name": "Cave Boulder",
+      "frame": {
+        "x": 152,
+        "y": 688,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0894 Cave Boulder.png"
+    },
+    "895": {
+      "name": "Jagged Rock",
+      "frame": {
+        "x": 200,
+        "y": 688,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0895 Jagged Rock.png"
+    },
+    "896": {
+      "name": "Quartz Deposit",
+      "frame": {
+        "x": 248,
+        "y": 688,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0896 Quartz Deposit.png"
+    },
+    "897": {
+      "name": "Iron Ore Deposit",
+      "frame": {
+        "x": 296,
+        "y": 688,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0897 Iron Ore Deposit.png"
+    },
+    "898": {
+      "name": "Copper Ore Deposit",
+      "frame": {
+        "x": 344,
+        "y": 688,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0898 Copper Ore Deposit.png"
+    },
+    "899": {
+      "name": "Gold Ore Deposit",
+      "frame": {
+        "x": 392,
+        "y": 688,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Dungeon/0899 Gold Ore Deposit.png"
+    },
+    "900": {
+      "name": "Glowing Mushroom Cluster",
+      "frame": {
+        "x": 448,
+        "y": 704,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Dungeon/0900 Glowing Mushroom Cluster.png"
+    }
+  }
+}

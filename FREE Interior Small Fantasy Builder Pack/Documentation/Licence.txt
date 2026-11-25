@@ -1,0 +1,21 @@
+NIMBEKIT FREE GAME ASSET LICENCE — VERSION 1.0
+FREE Interior Small Fantasy Builder Pack
+
+You may use these assets in commercial and non-commercial games, prototypes,
+game jams, interactive projects, videos, and promotional images for those projects.
+You may edit, recolour, resize, combine, and adapt the assets for your projects.
+You may distribute the assets as part of a finished game or application.
+You may share the assets privately with collaborators working on your project.
+There are no royalties or per-project fees. Attribution is appreciated, not required.
+Suggested credit: Interior assets by Nimbekit.
+
+You may not sell, re-upload, or redistribute the raw assets, atlases, or a modified
+standalone asset collection. Do not claim that you created the original pack.
+Please direct people who want the raw pack to Nimbekit's original itch.io page.
+
+These permissions apply to the extent Nimbekit holds or can grant relevant rights.
+The files are supplied as is, without a warranty of fitness or exclusivity.
+This licence does not grant rights in unrelated third-party trademarks or works.
+
+Creator: Nimbekit
+https://nimbekit.itch.io/

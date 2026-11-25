@@ -1,0 +1,3 @@
+Battle Axemaiden
+100% FREE COMPLETE PACK: 932 animation PNG frames; 8 actions, all in 8 directions. 16 static rotations and 8 art PNGs. Art boards are whole sheets for cropping. No engine project, controller, audio or gameplay code. Set anchors and animation timing in your engine. Original assets have no added advertising watermarks.
+Commercial and non-commercial use and modifications allowed. Credit "elie automata". Distribution within finished projects allowed. No standalone resale, sharing or redistribution of original or modified assets.

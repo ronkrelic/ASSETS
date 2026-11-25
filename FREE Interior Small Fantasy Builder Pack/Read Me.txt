@@ -1,0 +1,56 @@
+FREE INTERIOR SMALL FANTASY BUILDER PACK
+Nimbekit | Version 1.0 | 1,000 catalogued elements | 16px construction grid
+
+Build welcoming houses, busy taverns, royal chambers, libraries, workshops,
+prisons, underground vaults, and magical rooms from one coordinated interior kit.
+
+CONTENTS
+200 walls: 10 materials x 20 pieces, including all 16 cardinal-neighbour patterns
+and four solid face details per material.
+200 floors: 10 materials x 20 pieces, including all 16 border-neighbour patterns
+and four interior alternatives per material.
+200 furniture designs for homes, inns, shops, workshops, chapels, and palaces.
+150 interior props including food, crockery, books, plants, rugs, windows and doors.
+150 dungeon elements including stairs, columns, traps, cages, remains and treasure.
+100 arcane objects including crystals, potions, runes, portals and alchemy equipment.
+
+The count includes modular connections, material families, colour variants,
+and open/closed states. Repeated exports in atlases or maps are not added to the
+1,000 count. All 1,000 individual PNGs have distinct rendered pixel data.
+
+START HERE
+1. Open Asset Browser.html in a browser. It works offline with no installation.
+   Search by name or four-digit ID, filter categories, inspect sizes, or download PNGs.
+2. Import Sprites into your project, or use the Atlases folder with its JSON frames.
+3. Set nearest-neighbour filtering, turn off smoothing, and build on a 16px grid.
+4. Open any Examples/*.tmx map in Tiled to inspect an editable sample interior.
+5. Read the licence before redistributing a finished project.
+
+FILE GUIDE
+Sprites: 1,000 individual PNG files in six category folders, numbered 0001–1000.
+Atlases: six category sheets, a combined 48px-slot sheet, and JSON frame metadata.
+Tiled: a mixed-size image collection and separate 16px wall and floor tilesets.
+Examples: three editable TMX rooms plus their native 512x352 PNG renders.
+Previews: five listing screenshots and six labelled category contact sheets.
+Documentation: JSON/CSV catalogue, palette, technical guide, and licence.
+
+SIZES AND PIXELS
+709 assets are 16x16. Larger assets use 32x16 (66), 16x32 (130), 32x32 (84),
+16x48 (3), or 32x48 (8) canvases. Sizes include transparent padding.
+PNG sprites have binary alpha: every pixel is fully visible or fully transparent.
+No text labels, grids, or preview backgrounds are baked into the game sprites.
+The 48px atlas slots are a packing format, not a different tile scale.
+All artwork is static. There are no animation frames, sounds, characters, or game logic.
+
+EXAMPLE ROOMS
+Hearthwood Tavern: main room, kitchen and guest room.
+Moonvale Library and Chambers: library, royal bedroom and craft room.
+Underkeep Arcane Dungeon: vault, portal chamber, prison and alchemy room.
+These are example layouts, not playable games. Collision and game interactions
+should be configured for your own project.
+
+PRODUCTION
+This pack includes AI-assisted artwork, text and catalogue code, prepared as
+pixel sprites, organised into atlases and assembled into example layouts.
+
+Creator: Nimbekit | https://nimbekit.itch.io/

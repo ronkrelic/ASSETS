@@ -1,0 +1,1410 @@
+{
+  "image": "Arcane.png",
+  "width": 480,
+  "height": 480,
+  "slotWidth": 48,
+  "slotHeight": 48,
+  "columns": 10,
+  "frames": {
+    "901": {
+      "name": "Red Healing Potion",
+      "frame": {
+        "x": 16,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0901 Red Healing Potion.png"
+    },
+    "902": {
+      "name": "Green Stamina Potion",
+      "frame": {
+        "x": 64,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0902 Green Stamina Potion.png"
+    },
+    "903": {
+      "name": "Blue Mana Potion",
+      "frame": {
+        "x": 112,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0903 Blue Mana Potion.png"
+    },
+    "904": {
+      "name": "Purple Elixir",
+      "frame": {
+        "x": 160,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0904 Purple Elixir.png"
+    },
+    "905": {
+      "name": "Golden Elixir",
+      "frame": {
+        "x": 208,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0905 Golden Elixir.png"
+    },
+    "906": {
+      "name": "Black Potion",
+      "frame": {
+        "x": 256,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0906 Black Potion.png"
+    },
+    "907": {
+      "name": "Triangular Potion Bottle",
+      "frame": {
+        "x": 304,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0907 Triangular Potion Bottle.png"
+    },
+    "908": {
+      "name": "Round Potion Bottle",
+      "frame": {
+        "x": 352,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0908 Round Potion Bottle.png"
+    },
+    "909": {
+      "name": "Heart Potion Bottle",
+      "frame": {
+        "x": 400,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0909 Heart Potion Bottle.png"
+    },
+    "910": {
+      "name": "Twin Potion Bottles",
+      "frame": {
+        "x": 448,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0910 Twin Potion Bottles.png"
+    },
+    "911": {
+      "name": "Blue Crystal Shard",
+      "frame": {
+        "x": 16,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0911 Blue Crystal Shard.png"
+    },
+    "912": {
+      "name": "Red Crystal Shard",
+      "frame": {
+        "x": 64,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0912 Red Crystal Shard.png"
+    },
+    "913": {
+      "name": "Green Crystal Shard",
+      "frame": {
+        "x": 112,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0913 Green Crystal Shard.png"
+    },
+    "914": {
+      "name": "Purple Crystal Shard",
+      "frame": {
+        "x": 160,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0914 Purple Crystal Shard.png"
+    },
+    "915": {
+      "name": "Golden Crystal Shard",
+      "frame": {
+        "x": 208,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0915 Golden Crystal Shard.png"
+    },
+    "916": {
+      "name": "Blue Crystal Cluster",
+      "frame": {
+        "x": 256,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0916 Blue Crystal Cluster.png"
+    },
+    "917": {
+      "name": "Red Crystal Cluster",
+      "frame": {
+        "x": 304,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0917 Red Crystal Cluster.png"
+    },
+    "918": {
+      "name": "Green Crystal Cluster",
+      "frame": {
+        "x": 352,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0918 Green Crystal Cluster.png"
+    },
+    "919": {
+      "name": "Purple Crystal Cluster",
+      "frame": {
+        "x": 400,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0919 Purple Crystal Cluster.png"
+    },
+    "920": {
+      "name": "Clear Crystal Cluster",
+      "frame": {
+        "x": 448,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0920 Clear Crystal Cluster.png"
+    },
+    "921": {
+      "name": "Small Crystal Orb",
+      "frame": {
+        "x": 16,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0921 Small Crystal Orb.png"
+    },
+    "922": {
+      "name": "Large Crystal Orb On Stand",
+      "frame": {
+        "x": 64,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0922 Large Crystal Orb On Stand.png"
+    },
+    "923": {
+      "name": "Crystal Ball Table",
+      "frame": {
+        "x": 104,
+        "y": 112,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0923 Crystal Ball Table.png"
+    },
+    "924": {
+      "name": "Floating Spell Book",
+      "frame": {
+        "x": 160,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0924 Floating Spell Book.png"
+    },
+    "925": {
+      "name": "Chained Spell Book",
+      "frame": {
+        "x": 208,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0925 Chained Spell Book.png"
+    },
+    "926": {
+      "name": "Open Enchanted Book",
+      "frame": {
+        "x": 256,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0926 Open Enchanted Book.png"
+    },
+    "927": {
+      "name": "Closed Enchanted Grimoire",
+      "frame": {
+        "x": 304,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0927 Closed Enchanted Grimoire.png"
+    },
+    "928": {
+      "name": "Stack Of Grimoires",
+      "frame": {
+        "x": 352,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0928 Stack Of Grimoires.png"
+    },
+    "929": {
+      "name": "Glowing Scroll",
+      "frame": {
+        "x": 400,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0929 Glowing Scroll.png"
+    },
+    "930": {
+      "name": "Sealed Scroll Case",
+      "frame": {
+        "x": 448,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0930 Sealed Scroll Case.png"
+    },
+    "931": {
+      "name": "Small Alchemy Cauldron",
+      "frame": {
+        "x": 16,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0931 Small Alchemy Cauldron.png"
+    },
+    "932": {
+      "name": "Large Bubbling Cauldron",
+      "frame": {
+        "x": 56,
+        "y": 160,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0932 Large Bubbling Cauldron.png"
+    },
+    "933": {
+      "name": "Copper Distiller",
+      "frame": {
+        "x": 112,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0933 Copper Distiller.png"
+    },
+    "934": {
+      "name": "Glass Alembic",
+      "frame": {
+        "x": 160,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0934 Glass Alembic.png"
+    },
+    "935": {
+      "name": "Glass Retort",
+      "frame": {
+        "x": 208,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0935 Glass Retort.png"
+    },
+    "936": {
+      "name": "Magic Balance Scale",
+      "frame": {
+        "x": 256,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0936 Magic Balance Scale.png"
+    },
+    "937": {
+      "name": "Alchemy Flask Rack",
+      "frame": {
+        "x": 304,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0937 Alchemy Flask Rack.png"
+    },
+    "938": {
+      "name": "Glowing Potion Rack",
+      "frame": {
+        "x": 352,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0938 Glowing Potion Rack.png"
+    },
+    "939": {
+      "name": "Herb Grinder",
+      "frame": {
+        "x": 400,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0939 Herb Grinder.png"
+    },
+    "940": {
+      "name": "Alchemy Ingredients Tray",
+      "frame": {
+        "x": 448,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0940 Alchemy Ingredients Tray.png"
+    },
+    "941": {
+      "name": "Blue Floor Rune",
+      "frame": {
+        "x": 16,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0941 Blue Floor Rune.png"
+    },
+    "942": {
+      "name": "Red Floor Rune",
+      "frame": {
+        "x": 64,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0942 Red Floor Rune.png"
+    },
+    "943": {
+      "name": "Green Floor Rune",
+      "frame": {
+        "x": 112,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0943 Green Floor Rune.png"
+    },
+    "944": {
+      "name": "Purple Floor Rune",
+      "frame": {
+        "x": 160,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0944 Purple Floor Rune.png"
+    },
+    "945": {
+      "name": "Golden Floor Rune",
+      "frame": {
+        "x": 208,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0945 Golden Floor Rune.png"
+    },
+    "946": {
+      "name": "Blue Summoning Circle",
+      "frame": {
+        "x": 248,
+        "y": 208,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0946 Blue Summoning Circle.png"
+    },
+    "947": {
+      "name": "Red Summoning Circle",
+      "frame": {
+        "x": 296,
+        "y": 208,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0947 Red Summoning Circle.png"
+    },
+    "948": {
+      "name": "Green Summoning Circle",
+      "frame": {
+        "x": 344,
+        "y": 208,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0948 Green Summoning Circle.png"
+    },
+    "949": {
+      "name": "Purple Summoning Circle",
+      "frame": {
+        "x": 392,
+        "y": 208,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0949 Purple Summoning Circle.png"
+    },
+    "950": {
+      "name": "Golden Summoning Circle",
+      "frame": {
+        "x": 440,
+        "y": 208,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0950 Golden Summoning Circle.png"
+    },
+    "951": {
+      "name": "Portal Arch Empty",
+      "frame": {
+        "x": 8,
+        "y": 240,
+        "w": 32,
+        "h": 48
+      },
+      "origin": {
+        "x": 16,
+        "y": 48
+      },
+      "source": "Sprites/Arcane/0951 Portal Arch Empty.png"
+    },
+    "952": {
+      "name": "Portal Arch Blue",
+      "frame": {
+        "x": 56,
+        "y": 240,
+        "w": 32,
+        "h": 48
+      },
+      "origin": {
+        "x": 16,
+        "y": 48
+      },
+      "source": "Sprites/Arcane/0952 Portal Arch Blue.png"
+    },
+    "953": {
+      "name": "Portal Arch Purple",
+      "frame": {
+        "x": 104,
+        "y": 240,
+        "w": 32,
+        "h": 48
+      },
+      "origin": {
+        "x": 16,
+        "y": 48
+      },
+      "source": "Sprites/Arcane/0953 Portal Arch Purple.png"
+    },
+    "954": {
+      "name": "Portal Arch Green",
+      "frame": {
+        "x": 152,
+        "y": 240,
+        "w": 32,
+        "h": 48
+      },
+      "origin": {
+        "x": 16,
+        "y": 48
+      },
+      "source": "Sprites/Arcane/0954 Portal Arch Green.png"
+    },
+    "955": {
+      "name": "Portal Arch Red",
+      "frame": {
+        "x": 200,
+        "y": 240,
+        "w": 32,
+        "h": 48
+      },
+      "origin": {
+        "x": 16,
+        "y": 48
+      },
+      "source": "Sprites/Arcane/0955 Portal Arch Red.png"
+    },
+    "956": {
+      "name": "Standing Runestone",
+      "frame": {
+        "x": 256,
+        "y": 256,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0956 Standing Runestone.png"
+    },
+    "957": {
+      "name": "Floating Rune Tablet",
+      "frame": {
+        "x": 304,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0957 Floating Rune Tablet.png"
+    },
+    "958": {
+      "name": "Rune Inscribed Pillar",
+      "frame": {
+        "x": 352,
+        "y": 256,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0958 Rune Inscribed Pillar.png"
+    },
+    "959": {
+      "name": "Warding Totem",
+      "frame": {
+        "x": 400,
+        "y": 256,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0959 Warding Totem.png"
+    },
+    "960": {
+      "name": "Crystal Pedestal",
+      "frame": {
+        "x": 448,
+        "y": 256,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0960 Crystal Pedestal.png"
+    },
+    "961": {
+      "name": "Blue Mana Well",
+      "frame": {
+        "x": 8,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0961 Blue Mana Well.png"
+    },
+    "962": {
+      "name": "Purple Mana Well",
+      "frame": {
+        "x": 56,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0962 Purple Mana Well.png"
+    },
+    "963": {
+      "name": "Gold Offering Bowl",
+      "frame": {
+        "x": 112,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0963 Gold Offering Bowl.png"
+    },
+    "964": {
+      "name": "Silver Offering Bowl",
+      "frame": {
+        "x": 160,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0964 Silver Offering Bowl.png"
+    },
+    "965": {
+      "name": "Stone Ritual Altar",
+      "frame": {
+        "x": 200,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0965 Stone Ritual Altar.png"
+    },
+    "966": {
+      "name": "Wooden Ritual Altar",
+      "frame": {
+        "x": 248,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0966 Wooden Ritual Altar.png"
+    },
+    "967": {
+      "name": "Crystal Ritual Altar",
+      "frame": {
+        "x": 296,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0967 Crystal Ritual Altar.png"
+    },
+    "968": {
+      "name": "Glowing Altar",
+      "frame": {
+        "x": 344,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0968 Glowing Altar.png"
+    },
+    "969": {
+      "name": "Lunar Shrine",
+      "frame": {
+        "x": 400,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0969 Lunar Shrine.png"
+    },
+    "970": {
+      "name": "Sun Shrine",
+      "frame": {
+        "x": 448,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0970 Sun Shrine.png"
+    },
+    "971": {
+      "name": "Blue Enchanted Chest",
+      "frame": {
+        "x": 16,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0971 Blue Enchanted Chest.png"
+    },
+    "972": {
+      "name": "Purple Enchanted Chest",
+      "frame": {
+        "x": 64,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0972 Purple Enchanted Chest.png"
+    },
+    "973": {
+      "name": "Green Enchanted Chest",
+      "frame": {
+        "x": 112,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0973 Green Enchanted Chest.png"
+    },
+    "974": {
+      "name": "Gold Enchanted Chest",
+      "frame": {
+        "x": 160,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0974 Gold Enchanted Chest.png"
+    },
+    "975": {
+      "name": "Living Mushroom Stool",
+      "frame": {
+        "x": 208,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0975 Living Mushroom Stool.png"
+    },
+    "976": {
+      "name": "Mushroom Table",
+      "frame": {
+        "x": 248,
+        "y": 352,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0976 Mushroom Table.png"
+    },
+    "977": {
+      "name": "Root Bookshelf",
+      "frame": {
+        "x": 304,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0977 Root Bookshelf.png"
+    },
+    "978": {
+      "name": "Living Wooden Cabinet",
+      "frame": {
+        "x": 352,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0978 Living Wooden Cabinet.png"
+    },
+    "979": {
+      "name": "Faerie Lantern",
+      "frame": {
+        "x": 400,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0979 Faerie Lantern.png"
+    },
+    "980": {
+      "name": "Floating Candle Bundle",
+      "frame": {
+        "x": 448,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0980 Floating Candle Bundle.png"
+    },
+    "981": {
+      "name": "Golden Astrolabe",
+      "frame": {
+        "x": 8,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0981 Golden Astrolabe.png"
+    },
+    "982": {
+      "name": "Brass Telescope",
+      "frame": {
+        "x": 56,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0982 Brass Telescope.png"
+    },
+    "983": {
+      "name": "Star Chart On Stand",
+      "frame": {
+        "x": 104,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0983 Star Chart On Stand.png"
+    },
+    "984": {
+      "name": "Armillary Sphere",
+      "frame": {
+        "x": 152,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0984 Armillary Sphere.png"
+    },
+    "985": {
+      "name": "Hourglass",
+      "frame": {
+        "x": 208,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0985 Hourglass.png"
+    },
+    "986": {
+      "name": "Celestial Globe",
+      "frame": {
+        "x": 248,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0986 Celestial Globe.png"
+    },
+    "987": {
+      "name": "Moon Wall Plaque",
+      "frame": {
+        "x": 304,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0987 Moon Wall Plaque.png"
+    },
+    "988": {
+      "name": "Sun Wall Plaque",
+      "frame": {
+        "x": 352,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0988 Sun Wall Plaque.png"
+    },
+    "989": {
+      "name": "Star Wall Plaque",
+      "frame": {
+        "x": 400,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0989 Star Wall Plaque.png"
+    },
+    "990": {
+      "name": "Constellation Tapestry",
+      "frame": {
+        "x": 448,
+        "y": 400,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0990 Constellation Tapestry.png"
+    },
+    "991": {
+      "name": "Red Magic Mushroom",
+      "frame": {
+        "x": 16,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0991 Red Magic Mushroom.png"
+    },
+    "992": {
+      "name": "Blue Magic Mushroom",
+      "frame": {
+        "x": 64,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0992 Blue Magic Mushroom.png"
+    },
+    "993": {
+      "name": "Purple Magic Mushroom",
+      "frame": {
+        "x": 112,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0993 Purple Magic Mushroom.png"
+    },
+    "994": {
+      "name": "Green Magic Mushroom",
+      "frame": {
+        "x": 160,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0994 Green Magic Mushroom.png"
+    },
+    "995": {
+      "name": "Glowing Moss Jar",
+      "frame": {
+        "x": 208,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0995 Glowing Moss Jar.png"
+    },
+    "996": {
+      "name": "Bottled Lightning",
+      "frame": {
+        "x": 256,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0996 Bottled Lightning.png"
+    },
+    "997": {
+      "name": "Bottled Fire",
+      "frame": {
+        "x": 304,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0997 Bottled Fire.png"
+    },
+    "998": {
+      "name": "Bottled Mist",
+      "frame": {
+        "x": 352,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Arcane/0998 Bottled Mist.png"
+    },
+    "999": {
+      "name": "Enchanted Mirror",
+      "frame": {
+        "x": 400,
+        "y": 448,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/0999 Enchanted Mirror.png"
+    },
+    "1000": {
+      "name": "Magic Key On Pedestal",
+      "frame": {
+        "x": 448,
+        "y": 448,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Arcane/1000 Magic Key On Pedestal.png"
+    }
+  }
+}

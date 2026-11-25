@@ -1,0 +1,2110 @@
+{
+  "image": "Interior Props.png",
+  "width": 480,
+  "height": 720,
+  "slotWidth": 48,
+  "slotHeight": 48,
+  "columns": 10,
+  "frames": {
+    "601": {
+      "name": "Clay Jug",
+      "frame": {
+        "x": 16,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0601 Clay Jug.png"
+    },
+    "602": {
+      "name": "Blue Jug",
+      "frame": {
+        "x": 64,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0602 Blue Jug.png"
+    },
+    "603": {
+      "name": "Green Jug",
+      "frame": {
+        "x": 112,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0603 Green Jug.png"
+    },
+    "604": {
+      "name": "Copper Pitcher",
+      "frame": {
+        "x": 160,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0604 Copper Pitcher.png"
+    },
+    "605": {
+      "name": "Tin Tankard",
+      "frame": {
+        "x": 208,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0605 Tin Tankard.png"
+    },
+    "606": {
+      "name": "Wooden Mug",
+      "frame": {
+        "x": 256,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0606 Wooden Mug.png"
+    },
+    "607": {
+      "name": "Goblet",
+      "frame": {
+        "x": 304,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0607 Goblet.png"
+    },
+    "608": {
+      "name": "Wine Cup",
+      "frame": {
+        "x": 352,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0608 Wine Cup.png"
+    },
+    "609": {
+      "name": "Soup Bowl",
+      "frame": {
+        "x": 400,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0609 Soup Bowl.png"
+    },
+    "610": {
+      "name": "Dinner Plate",
+      "frame": {
+        "x": 448,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0610 Dinner Plate.png"
+    },
+    "611": {
+      "name": "Bread Loaf",
+      "frame": {
+        "x": 16,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0611 Bread Loaf.png"
+    },
+    "612": {
+      "name": "Bread Basket",
+      "frame": {
+        "x": 64,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0612 Bread Basket.png"
+    },
+    "613": {
+      "name": "Wheel Of Cheese",
+      "frame": {
+        "x": 112,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0613 Wheel Of Cheese.png"
+    },
+    "614": {
+      "name": "Cheese Wedge",
+      "frame": {
+        "x": 160,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0614 Cheese Wedge.png"
+    },
+    "615": {
+      "name": "Roast Chicken On Platter",
+      "frame": {
+        "x": 208,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0615 Roast Chicken On Platter.png"
+    },
+    "616": {
+      "name": "Bowl Of Fruit",
+      "frame": {
+        "x": 256,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0616 Bowl Of Fruit.png"
+    },
+    "617": {
+      "name": "Apple Basket",
+      "frame": {
+        "x": 304,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0617 Apple Basket.png"
+    },
+    "618": {
+      "name": "Vegetable Basket",
+      "frame": {
+        "x": 352,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0618 Vegetable Basket.png"
+    },
+    "619": {
+      "name": "Sack Of Potatoes",
+      "frame": {
+        "x": 400,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0619 Sack Of Potatoes.png"
+    },
+    "620": {
+      "name": "Sack Of Grain",
+      "frame": {
+        "x": 448,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0620 Sack Of Grain.png"
+    },
+    "621": {
+      "name": "Short Red Bottle",
+      "frame": {
+        "x": 16,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0621 Short Red Bottle.png"
+    },
+    "622": {
+      "name": "Tall Red Bottle",
+      "frame": {
+        "x": 64,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0622 Tall Red Bottle.png"
+    },
+    "623": {
+      "name": "Short Green Bottle",
+      "frame": {
+        "x": 112,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0623 Short Green Bottle.png"
+    },
+    "624": {
+      "name": "Tall Green Bottle",
+      "frame": {
+        "x": 160,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0624 Tall Green Bottle.png"
+    },
+    "625": {
+      "name": "Short Blue Bottle",
+      "frame": {
+        "x": 208,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0625 Short Blue Bottle.png"
+    },
+    "626": {
+      "name": "Tall Blue Bottle",
+      "frame": {
+        "x": 256,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0626 Tall Blue Bottle.png"
+    },
+    "627": {
+      "name": "Empty Glass Bottle",
+      "frame": {
+        "x": 304,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0627 Empty Glass Bottle.png"
+    },
+    "628": {
+      "name": "Wine Bottle",
+      "frame": {
+        "x": 352,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0628 Wine Bottle.png"
+    },
+    "629": {
+      "name": "Corked Flask",
+      "frame": {
+        "x": 400,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0629 Corked Flask.png"
+    },
+    "630": {
+      "name": "Water Carafe",
+      "frame": {
+        "x": 448,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0630 Water Carafe.png"
+    },
+    "631": {
+      "name": "Closed Red Book",
+      "frame": {
+        "x": 16,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0631 Closed Red Book.png"
+    },
+    "632": {
+      "name": "Closed Green Book",
+      "frame": {
+        "x": 64,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0632 Closed Green Book.png"
+    },
+    "633": {
+      "name": "Closed Blue Book",
+      "frame": {
+        "x": 112,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0633 Closed Blue Book.png"
+    },
+    "634": {
+      "name": "Open Book",
+      "frame": {
+        "x": 160,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0634 Open Book.png"
+    },
+    "635": {
+      "name": "Stacked Books",
+      "frame": {
+        "x": 208,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0635 Stacked Books.png"
+    },
+    "636": {
+      "name": "Rolled Parchment",
+      "frame": {
+        "x": 256,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0636 Rolled Parchment.png"
+    },
+    "637": {
+      "name": "Open Parchment",
+      "frame": {
+        "x": 304,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0637 Open Parchment.png"
+    },
+    "638": {
+      "name": "Tied Scroll Bundle",
+      "frame": {
+        "x": 352,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0638 Tied Scroll Bundle.png"
+    },
+    "639": {
+      "name": "Ink Pot With Quill",
+      "frame": {
+        "x": 400,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0639 Ink Pot With Quill.png"
+    },
+    "640": {
+      "name": "Wax Seal Kit",
+      "frame": {
+        "x": 448,
+        "y": 176,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0640 Wax Seal Kit.png"
+    },
+    "641": {
+      "name": "Single Candle",
+      "frame": {
+        "x": 16,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0641 Single Candle.png"
+    },
+    "642": {
+      "name": "Pair Of Candles",
+      "frame": {
+        "x": 64,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0642 Pair Of Candles.png"
+    },
+    "643": {
+      "name": "Three Candle Holder",
+      "frame": {
+        "x": 112,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0643 Three Candle Holder.png"
+    },
+    "644": {
+      "name": "Five Candle Candelabra",
+      "frame": {
+        "x": 160,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0644 Five Candle Candelabra.png"
+    },
+    "645": {
+      "name": "Hanging Lantern",
+      "frame": {
+        "x": 208,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0645 Hanging Lantern.png"
+    },
+    "646": {
+      "name": "Standing Lantern",
+      "frame": {
+        "x": 256,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0646 Standing Lantern.png"
+    },
+    "647": {
+      "name": "Oil Lamp",
+      "frame": {
+        "x": 304,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0647 Oil Lamp.png"
+    },
+    "648": {
+      "name": "Brass Table Lamp",
+      "frame": {
+        "x": 352,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0648 Brass Table Lamp.png"
+    },
+    "649": {
+      "name": "Wall Candle Sconce",
+      "frame": {
+        "x": 400,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0649 Wall Candle Sconce.png"
+    },
+    "650": {
+      "name": "Wall Torch",
+      "frame": {
+        "x": 448,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0650 Wall Torch.png"
+    },
+    "651": {
+      "name": "Small Terracotta Plant",
+      "frame": {
+        "x": 16,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0651 Small Terracotta Plant.png"
+    },
+    "652": {
+      "name": "Tall Potted Fern",
+      "frame": {
+        "x": 64,
+        "y": 256,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0652 Tall Potted Fern.png"
+    },
+    "653": {
+      "name": "Blue Flower Pot",
+      "frame": {
+        "x": 112,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0653 Blue Flower Pot.png"
+    },
+    "654": {
+      "name": "Red Flower Pot",
+      "frame": {
+        "x": 160,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0654 Red Flower Pot.png"
+    },
+    "655": {
+      "name": "White Flower Vase",
+      "frame": {
+        "x": 208,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0655 White Flower Vase.png"
+    },
+    "656": {
+      "name": "Ivy In Pot",
+      "frame": {
+        "x": 256,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0656 Ivy In Pot.png"
+    },
+    "657": {
+      "name": "Large Green Plant",
+      "frame": {
+        "x": 304,
+        "y": 256,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0657 Large Green Plant.png"
+    },
+    "658": {
+      "name": "Succulent Pot",
+      "frame": {
+        "x": 352,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0658 Succulent Pot.png"
+    },
+    "659": {
+      "name": "Hanging Planter",
+      "frame": {
+        "x": 400,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0659 Hanging Planter.png"
+    },
+    "660": {
+      "name": "Dry Herbs Bundle",
+      "frame": {
+        "x": 448,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0660 Dry Herbs Bundle.png"
+    },
+    "661": {
+      "name": "Round Red Rug",
+      "frame": {
+        "x": 8,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0661 Round Red Rug.png"
+    },
+    "662": {
+      "name": "Square Red Rug",
+      "frame": {
+        "x": 56,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0662 Square Red Rug.png"
+    },
+    "663": {
+      "name": "Long Red Runner",
+      "frame": {
+        "x": 112,
+        "y": 288,
+        "w": 16,
+        "h": 48
+      },
+      "origin": {
+        "x": 8,
+        "y": 48
+      },
+      "source": "Sprites/Interior Props/0663 Long Red Runner.png"
+    },
+    "664": {
+      "name": "Round Blue Rug",
+      "frame": {
+        "x": 152,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0664 Round Blue Rug.png"
+    },
+    "665": {
+      "name": "Square Blue Rug",
+      "frame": {
+        "x": 200,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0665 Square Blue Rug.png"
+    },
+    "666": {
+      "name": "Long Blue Runner",
+      "frame": {
+        "x": 256,
+        "y": 288,
+        "w": 16,
+        "h": 48
+      },
+      "origin": {
+        "x": 8,
+        "y": 48
+      },
+      "source": "Sprites/Interior Props/0666 Long Blue Runner.png"
+    },
+    "667": {
+      "name": "Round Green Rug",
+      "frame": {
+        "x": 296,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0667 Round Green Rug.png"
+    },
+    "668": {
+      "name": "Square Green Rug",
+      "frame": {
+        "x": 344,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0668 Square Green Rug.png"
+    },
+    "669": {
+      "name": "Long Green Runner",
+      "frame": {
+        "x": 400,
+        "y": 288,
+        "w": 16,
+        "h": 48
+      },
+      "origin": {
+        "x": 8,
+        "y": 48
+      },
+      "source": "Sprites/Interior Props/0669 Long Green Runner.png"
+    },
+    "670": {
+      "name": "Ornate Purple Rug",
+      "frame": {
+        "x": 440,
+        "y": 304,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0670 Ornate Purple Rug.png"
+    },
+    "671": {
+      "name": "Oval Framed Mirror",
+      "frame": {
+        "x": 16,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0671 Oval Framed Mirror.png"
+    },
+    "672": {
+      "name": "Rectangular Mirror",
+      "frame": {
+        "x": 64,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0672 Rectangular Mirror.png"
+    },
+    "673": {
+      "name": "Round Wall Clock",
+      "frame": {
+        "x": 112,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0673 Round Wall Clock.png"
+    },
+    "674": {
+      "name": "Square Wall Clock",
+      "frame": {
+        "x": 160,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0674 Square Wall Clock.png"
+    },
+    "675": {
+      "name": "Small Landscape Painting",
+      "frame": {
+        "x": 208,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0675 Small Landscape Painting.png"
+    },
+    "676": {
+      "name": "Royal Portrait Painting",
+      "frame": {
+        "x": 256,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0676 Royal Portrait Painting.png"
+    },
+    "677": {
+      "name": "Heraldic Shield Wall Decor",
+      "frame": {
+        "x": 304,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0677 Heraldic Shield Wall Decor.png"
+    },
+    "678": {
+      "name": "Mounted Antlers",
+      "frame": {
+        "x": 352,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0678 Mounted Antlers.png"
+    },
+    "679": {
+      "name": "Mounted Boar Head",
+      "frame": {
+        "x": 400,
+        "y": 352,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0679 Mounted Boar Head.png"
+    },
+    "680": {
+      "name": "Empty Ornate Frame",
+      "frame": {
+        "x": 448,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0680 Empty Ornate Frame.png"
+    },
+    "681": {
+      "name": "Broom",
+      "frame": {
+        "x": 16,
+        "y": 400,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0681 Broom.png"
+    },
+    "682": {
+      "name": "Mop",
+      "frame": {
+        "x": 64,
+        "y": 400,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0682 Mop.png"
+    },
+    "683": {
+      "name": "Bucket Of Water",
+      "frame": {
+        "x": 112,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0683 Bucket Of Water.png"
+    },
+    "684": {
+      "name": "Empty Wooden Bucket",
+      "frame": {
+        "x": 160,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0684 Empty Wooden Bucket.png"
+    },
+    "685": {
+      "name": "Coil Of Rope",
+      "frame": {
+        "x": 208,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0685 Coil Of Rope.png"
+    },
+    "686": {
+      "name": "Folded Linen",
+      "frame": {
+        "x": 256,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0686 Folded Linen.png"
+    },
+    "687": {
+      "name": "Laundry Basket",
+      "frame": {
+        "x": 304,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0687 Laundry Basket.png"
+    },
+    "688": {
+      "name": "Soap Dish",
+      "frame": {
+        "x": 352,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0688 Soap Dish.png"
+    },
+    "689": {
+      "name": "Towel On Rail",
+      "frame": {
+        "x": 400,
+        "y": 400,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0689 Towel On Rail.png"
+    },
+    "690": {
+      "name": "Wooden Washboard",
+      "frame": {
+        "x": 448,
+        "y": 400,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0690 Wooden Washboard.png"
+    },
+    "691": {
+      "name": "Small Cushion",
+      "frame": {
+        "x": 16,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0691 Small Cushion.png"
+    },
+    "692": {
+      "name": "Square Cushion",
+      "frame": {
+        "x": 64,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0692 Square Cushion.png"
+    },
+    "693": {
+      "name": "Long Bolster",
+      "frame": {
+        "x": 112,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0693 Long Bolster.png"
+    },
+    "694": {
+      "name": "Rolled Blanket",
+      "frame": {
+        "x": 160,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0694 Rolled Blanket.png"
+    },
+    "695": {
+      "name": "Folded Blanket",
+      "frame": {
+        "x": 208,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0695 Folded Blanket.png"
+    },
+    "696": {
+      "name": "Woven Basket",
+      "frame": {
+        "x": 256,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0696 Woven Basket.png"
+    },
+    "697": {
+      "name": "Shallow Basket",
+      "frame": {
+        "x": 304,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0697 Shallow Basket.png"
+    },
+    "698": {
+      "name": "Wicker Hamper",
+      "frame": {
+        "x": 352,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0698 Wicker Hamper.png"
+    },
+    "699": {
+      "name": "Sewing Basket",
+      "frame": {
+        "x": 400,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0699 Sewing Basket.png"
+    },
+    "700": {
+      "name": "Small Jewelry Box",
+      "frame": {
+        "x": 448,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0700 Small Jewelry Box.png"
+    },
+    "701": {
+      "name": "Bronze Key",
+      "frame": {
+        "x": 16,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0701 Bronze Key.png"
+    },
+    "702": {
+      "name": "Iron Key",
+      "frame": {
+        "x": 64,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0702 Iron Key.png"
+    },
+    "703": {
+      "name": "Ornate Golden Key",
+      "frame": {
+        "x": 112,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0703 Ornate Golden Key.png"
+    },
+    "704": {
+      "name": "Key Ring",
+      "frame": {
+        "x": 160,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0704 Key Ring.png"
+    },
+    "705": {
+      "name": "Treasure Pouch",
+      "frame": {
+        "x": 208,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0705 Treasure Pouch.png"
+    },
+    "706": {
+      "name": "Coin Pile",
+      "frame": {
+        "x": 256,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0706 Coin Pile.png"
+    },
+    "707": {
+      "name": "Pile Of Gems",
+      "frame": {
+        "x": 304,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0707 Pile Of Gems.png"
+    },
+    "708": {
+      "name": "Small Jewelry Tray",
+      "frame": {
+        "x": 352,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0708 Small Jewelry Tray.png"
+    },
+    "709": {
+      "name": "Silver Dinner Tray",
+      "frame": {
+        "x": 400,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0709 Silver Dinner Tray.png"
+    },
+    "710": {
+      "name": "Brass Hand Bell",
+      "frame": {
+        "x": 448,
+        "y": 512,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0710 Brass Hand Bell.png"
+    },
+    "711": {
+      "name": "Wall Herbs Rack",
+      "frame": {
+        "x": 8,
+        "y": 560,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0711 Wall Herbs Rack.png"
+    },
+    "712": {
+      "name": "Drying Fish Rack",
+      "frame": {
+        "x": 56,
+        "y": 560,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0712 Drying Fish Rack.png"
+    },
+    "713": {
+      "name": "Hanging Pan",
+      "frame": {
+        "x": 112,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0713 Hanging Pan.png"
+    },
+    "714": {
+      "name": "Hanging Pot",
+      "frame": {
+        "x": 160,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0714 Hanging Pot.png"
+    },
+    "715": {
+      "name": "Chopping Board With Knife",
+      "frame": {
+        "x": 208,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0715 Chopping Board With Knife.png"
+    },
+    "716": {
+      "name": "Rolling Pin",
+      "frame": {
+        "x": 256,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0716 Rolling Pin.png"
+    },
+    "717": {
+      "name": "Mortar And Pestle",
+      "frame": {
+        "x": 304,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0717 Mortar And Pestle.png"
+    },
+    "718": {
+      "name": "Kitchen Scales",
+      "frame": {
+        "x": 352,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0718 Kitchen Scales.png"
+    },
+    "719": {
+      "name": "Kettle",
+      "frame": {
+        "x": 400,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0719 Kettle.png"
+    },
+    "720": {
+      "name": "Cauldron",
+      "frame": {
+        "x": 448,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0720 Cauldron.png"
+    },
+    "721": {
+      "name": "Large Water Barrel",
+      "frame": {
+        "x": 8,
+        "y": 608,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0721 Large Water Barrel.png"
+    },
+    "722": {
+      "name": "Small Water Barrel",
+      "frame": {
+        "x": 64,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0722 Small Water Barrel.png"
+    },
+    "723": {
+      "name": "Open Flour Sack",
+      "frame": {
+        "x": 112,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0723 Open Flour Sack.png"
+    },
+    "724": {
+      "name": "Open Fruit Crate",
+      "frame": {
+        "x": 160,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0724 Open Fruit Crate.png"
+    },
+    "725": {
+      "name": "Empty Crate",
+      "frame": {
+        "x": 208,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0725 Empty Crate.png"
+    },
+    "726": {
+      "name": "Stacked Crates",
+      "frame": {
+        "x": 248,
+        "y": 608,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0726 Stacked Crates.png"
+    },
+    "727": {
+      "name": "Bundle Of Firewood",
+      "frame": {
+        "x": 296,
+        "y": 608,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0727 Bundle Of Firewood.png"
+    },
+    "728": {
+      "name": "Firewood Basket",
+      "frame": {
+        "x": 344,
+        "y": 608,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0728 Firewood Basket.png"
+    },
+    "729": {
+      "name": "Coal Bucket",
+      "frame": {
+        "x": 400,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0729 Coal Bucket.png"
+    },
+    "730": {
+      "name": "Stack Of Folded Cloth",
+      "frame": {
+        "x": 448,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0730 Stack Of Folded Cloth.png"
+    },
+    "731": {
+      "name": "Red Curtain Panel",
+      "frame": {
+        "x": 16,
+        "y": 640,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0731 Red Curtain Panel.png"
+    },
+    "732": {
+      "name": "Blue Curtain Panel",
+      "frame": {
+        "x": 64,
+        "y": 640,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0732 Blue Curtain Panel.png"
+    },
+    "733": {
+      "name": "Green Curtain Panel",
+      "frame": {
+        "x": 112,
+        "y": 640,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0733 Green Curtain Panel.png"
+    },
+    "734": {
+      "name": "Red Draped Window",
+      "frame": {
+        "x": 160,
+        "y": 640,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0734 Red Draped Window.png"
+    },
+    "735": {
+      "name": "Blue Draped Window",
+      "frame": {
+        "x": 208,
+        "y": 640,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0735 Blue Draped Window.png"
+    },
+    "736": {
+      "name": "Arched Stained-glass Window",
+      "frame": {
+        "x": 256,
+        "y": 640,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0736 Arched Stained-glass Window.png"
+    },
+    "737": {
+      "name": "Square Timber Window",
+      "frame": {
+        "x": 304,
+        "y": 640,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0737 Square Timber Window.png"
+    },
+    "738": {
+      "name": "Small Stone Window",
+      "frame": {
+        "x": 352,
+        "y": 640,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0738 Small Stone Window.png"
+    },
+    "739": {
+      "name": "Barred Window",
+      "frame": {
+        "x": 400,
+        "y": 640,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0739 Barred Window.png"
+    },
+    "740": {
+      "name": "Wall Ventilation Grille",
+      "frame": {
+        "x": 448,
+        "y": 656,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0740 Wall Ventilation Grille.png"
+    },
+    "741": {
+      "name": "Closed Wooden Door",
+      "frame": {
+        "x": 16,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0741 Closed Wooden Door.png"
+    },
+    "742": {
+      "name": "Open Wooden Door",
+      "frame": {
+        "x": 64,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0742 Open Wooden Door.png"
+    },
+    "743": {
+      "name": "Reinforced Oak Door",
+      "frame": {
+        "x": 112,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0743 Reinforced Oak Door.png"
+    },
+    "744": {
+      "name": "Arched Wooden Door",
+      "frame": {
+        "x": 160,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0744 Arched Wooden Door.png"
+    },
+    "745": {
+      "name": "Red Palace Door",
+      "frame": {
+        "x": 208,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0745 Red Palace Door.png"
+    },
+    "746": {
+      "name": "Blue Palace Door",
+      "frame": {
+        "x": 256,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0746 Blue Palace Door.png"
+    },
+    "747": {
+      "name": "Iron Dungeon Door",
+      "frame": {
+        "x": 304,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0747 Iron Dungeon Door.png"
+    },
+    "748": {
+      "name": "Iron Portcullis",
+      "frame": {
+        "x": 352,
+        "y": 704,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0748 Iron Portcullis.png"
+    },
+    "749": {
+      "name": "Cell Gate",
+      "frame": {
+        "x": 400,
+        "y": 704,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Interior Props/0749 Cell Gate.png"
+    },
+    "750": {
+      "name": "Secret Bookcase Door",
+      "frame": {
+        "x": 448,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Interior Props/0750 Secret Bookcase Door.png"
+    }
+  }
+}

@@ -1,0 +1,2810 @@
+{
+  "image": "Walls.png",
+  "width": 320,
+  "height": 160,
+  "slotWidth": 16,
+  "slotHeight": 16,
+  "columns": 20,
+  "frames": {
+    "1": {
+      "name": "Limestone Wall Connect None",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0001 Limestone Wall Connect None.png"
+    },
+    "2": {
+      "name": "Limestone Wall Connect N",
+      "frame": {
+        "x": 16,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0002 Limestone Wall Connect N.png"
+    },
+    "3": {
+      "name": "Limestone Wall Connect E",
+      "frame": {
+        "x": 32,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0003 Limestone Wall Connect E.png"
+    },
+    "4": {
+      "name": "Limestone Wall Connect Ne",
+      "frame": {
+        "x": 48,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0004 Limestone Wall Connect Ne.png"
+    },
+    "5": {
+      "name": "Limestone Wall Connect S",
+      "frame": {
+        "x": 64,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0005 Limestone Wall Connect S.png"
+    },
+    "6": {
+      "name": "Limestone Wall Connect Ns",
+      "frame": {
+        "x": 80,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0006 Limestone Wall Connect Ns.png"
+    },
+    "7": {
+      "name": "Limestone Wall Connect Es",
+      "frame": {
+        "x": 96,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0007 Limestone Wall Connect Es.png"
+    },
+    "8": {
+      "name": "Limestone Wall Connect Nes",
+      "frame": {
+        "x": 112,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0008 Limestone Wall Connect Nes.png"
+    },
+    "9": {
+      "name": "Limestone Wall Connect W",
+      "frame": {
+        "x": 128,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0009 Limestone Wall Connect W.png"
+    },
+    "10": {
+      "name": "Limestone Wall Connect Nw",
+      "frame": {
+        "x": 144,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0010 Limestone Wall Connect Nw.png"
+    },
+    "11": {
+      "name": "Limestone Wall Connect Ew",
+      "frame": {
+        "x": 160,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0011 Limestone Wall Connect Ew.png"
+    },
+    "12": {
+      "name": "Limestone Wall Connect New",
+      "frame": {
+        "x": 176,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0012 Limestone Wall Connect New.png"
+    },
+    "13": {
+      "name": "Limestone Wall Connect Sw",
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0013 Limestone Wall Connect Sw.png"
+    },
+    "14": {
+      "name": "Limestone Wall Connect Nsw",
+      "frame": {
+        "x": 208,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0014 Limestone Wall Connect Nsw.png"
+    },
+    "15": {
+      "name": "Limestone Wall Connect Esw",
+      "frame": {
+        "x": 224,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0015 Limestone Wall Connect Esw.png"
+    },
+    "16": {
+      "name": "Limestone Wall Connect Nesw",
+      "frame": {
+        "x": 240,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0016 Limestone Wall Connect Nesw.png"
+    },
+    "17": {
+      "name": "Limestone Wall Face Panel",
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0017 Limestone Wall Face Panel.png"
+    },
+    "18": {
+      "name": "Limestone Wall Cracked Face",
+      "frame": {
+        "x": 272,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0018 Limestone Wall Cracked Face.png"
+    },
+    "19": {
+      "name": "Limestone Wall Mossy Face",
+      "frame": {
+        "x": 288,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0019 Limestone Wall Mossy Face.png"
+    },
+    "20": {
+      "name": "Limestone Wall Recessed Face",
+      "frame": {
+        "x": 304,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0020 Limestone Wall Recessed Face.png"
+    },
+    "21": {
+      "name": "Slate Wall Connect None",
+      "frame": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0021 Slate Wall Connect None.png"
+    },
+    "22": {
+      "name": "Slate Wall Connect N",
+      "frame": {
+        "x": 16,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0022 Slate Wall Connect N.png"
+    },
+    "23": {
+      "name": "Slate Wall Connect E",
+      "frame": {
+        "x": 32,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0023 Slate Wall Connect E.png"
+    },
+    "24": {
+      "name": "Slate Wall Connect Ne",
+      "frame": {
+        "x": 48,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0024 Slate Wall Connect Ne.png"
+    },
+    "25": {
+      "name": "Slate Wall Connect S",
+      "frame": {
+        "x": 64,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0025 Slate Wall Connect S.png"
+    },
+    "26": {
+      "name": "Slate Wall Connect Ns",
+      "frame": {
+        "x": 80,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0026 Slate Wall Connect Ns.png"
+    },
+    "27": {
+      "name": "Slate Wall Connect Es",
+      "frame": {
+        "x": 96,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0027 Slate Wall Connect Es.png"
+    },
+    "28": {
+      "name": "Slate Wall Connect Nes",
+      "frame": {
+        "x": 112,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0028 Slate Wall Connect Nes.png"
+    },
+    "29": {
+      "name": "Slate Wall Connect W",
+      "frame": {
+        "x": 128,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0029 Slate Wall Connect W.png"
+    },
+    "30": {
+      "name": "Slate Wall Connect Nw",
+      "frame": {
+        "x": 144,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0030 Slate Wall Connect Nw.png"
+    },
+    "31": {
+      "name": "Slate Wall Connect Ew",
+      "frame": {
+        "x": 160,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0031 Slate Wall Connect Ew.png"
+    },
+    "32": {
+      "name": "Slate Wall Connect New",
+      "frame": {
+        "x": 176,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0032 Slate Wall Connect New.png"
+    },
+    "33": {
+      "name": "Slate Wall Connect Sw",
+      "frame": {
+        "x": 192,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0033 Slate Wall Connect Sw.png"
+    },
+    "34": {
+      "name": "Slate Wall Connect Nsw",
+      "frame": {
+        "x": 208,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0034 Slate Wall Connect Nsw.png"
+    },
+    "35": {
+      "name": "Slate Wall Connect Esw",
+      "frame": {
+        "x": 224,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0035 Slate Wall Connect Esw.png"
+    },
+    "36": {
+      "name": "Slate Wall Connect Nesw",
+      "frame": {
+        "x": 240,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0036 Slate Wall Connect Nesw.png"
+    },
+    "37": {
+      "name": "Slate Wall Face Panel",
+      "frame": {
+        "x": 256,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0037 Slate Wall Face Panel.png"
+    },
+    "38": {
+      "name": "Slate Wall Cracked Face",
+      "frame": {
+        "x": 272,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0038 Slate Wall Cracked Face.png"
+    },
+    "39": {
+      "name": "Slate Wall Mossy Face",
+      "frame": {
+        "x": 288,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0039 Slate Wall Mossy Face.png"
+    },
+    "40": {
+      "name": "Slate Wall Recessed Face",
+      "frame": {
+        "x": 304,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0040 Slate Wall Recessed Face.png"
+    },
+    "41": {
+      "name": "Basalt Wall Connect None",
+      "frame": {
+        "x": 0,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0041 Basalt Wall Connect None.png"
+    },
+    "42": {
+      "name": "Basalt Wall Connect N",
+      "frame": {
+        "x": 16,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0042 Basalt Wall Connect N.png"
+    },
+    "43": {
+      "name": "Basalt Wall Connect E",
+      "frame": {
+        "x": 32,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0043 Basalt Wall Connect E.png"
+    },
+    "44": {
+      "name": "Basalt Wall Connect Ne",
+      "frame": {
+        "x": 48,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0044 Basalt Wall Connect Ne.png"
+    },
+    "45": {
+      "name": "Basalt Wall Connect S",
+      "frame": {
+        "x": 64,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0045 Basalt Wall Connect S.png"
+    },
+    "46": {
+      "name": "Basalt Wall Connect Ns",
+      "frame": {
+        "x": 80,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0046 Basalt Wall Connect Ns.png"
+    },
+    "47": {
+      "name": "Basalt Wall Connect Es",
+      "frame": {
+        "x": 96,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0047 Basalt Wall Connect Es.png"
+    },
+    "48": {
+      "name": "Basalt Wall Connect Nes",
+      "frame": {
+        "x": 112,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0048 Basalt Wall Connect Nes.png"
+    },
+    "49": {
+      "name": "Basalt Wall Connect W",
+      "frame": {
+        "x": 128,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0049 Basalt Wall Connect W.png"
+    },
+    "50": {
+      "name": "Basalt Wall Connect Nw",
+      "frame": {
+        "x": 144,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0050 Basalt Wall Connect Nw.png"
+    },
+    "51": {
+      "name": "Basalt Wall Connect Ew",
+      "frame": {
+        "x": 160,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0051 Basalt Wall Connect Ew.png"
+    },
+    "52": {
+      "name": "Basalt Wall Connect New",
+      "frame": {
+        "x": 176,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0052 Basalt Wall Connect New.png"
+    },
+    "53": {
+      "name": "Basalt Wall Connect Sw",
+      "frame": {
+        "x": 192,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0053 Basalt Wall Connect Sw.png"
+    },
+    "54": {
+      "name": "Basalt Wall Connect Nsw",
+      "frame": {
+        "x": 208,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0054 Basalt Wall Connect Nsw.png"
+    },
+    "55": {
+      "name": "Basalt Wall Connect Esw",
+      "frame": {
+        "x": 224,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0055 Basalt Wall Connect Esw.png"
+    },
+    "56": {
+      "name": "Basalt Wall Connect Nesw",
+      "frame": {
+        "x": 240,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0056 Basalt Wall Connect Nesw.png"
+    },
+    "57": {
+      "name": "Basalt Wall Face Panel",
+      "frame": {
+        "x": 256,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0057 Basalt Wall Face Panel.png"
+    },
+    "58": {
+      "name": "Basalt Wall Cracked Face",
+      "frame": {
+        "x": 272,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0058 Basalt Wall Cracked Face.png"
+    },
+    "59": {
+      "name": "Basalt Wall Mossy Face",
+      "frame": {
+        "x": 288,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0059 Basalt Wall Mossy Face.png"
+    },
+    "60": {
+      "name": "Basalt Wall Recessed Face",
+      "frame": {
+        "x": 304,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0060 Basalt Wall Recessed Face.png"
+    },
+    "61": {
+      "name": "Red Brick Wall Connect None",
+      "frame": {
+        "x": 0,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0061 Red Brick Wall Connect None.png"
+    },
+    "62": {
+      "name": "Red Brick Wall Connect N",
+      "frame": {
+        "x": 16,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0062 Red Brick Wall Connect N.png"
+    },
+    "63": {
+      "name": "Red Brick Wall Connect E",
+      "frame": {
+        "x": 32,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0063 Red Brick Wall Connect E.png"
+    },
+    "64": {
+      "name": "Red Brick Wall Connect Ne",
+      "frame": {
+        "x": 48,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0064 Red Brick Wall Connect Ne.png"
+    },
+    "65": {
+      "name": "Red Brick Wall Connect S",
+      "frame": {
+        "x": 64,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0065 Red Brick Wall Connect S.png"
+    },
+    "66": {
+      "name": "Red Brick Wall Connect Ns",
+      "frame": {
+        "x": 80,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0066 Red Brick Wall Connect Ns.png"
+    },
+    "67": {
+      "name": "Red Brick Wall Connect Es",
+      "frame": {
+        "x": 96,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0067 Red Brick Wall Connect Es.png"
+    },
+    "68": {
+      "name": "Red Brick Wall Connect Nes",
+      "frame": {
+        "x": 112,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0068 Red Brick Wall Connect Nes.png"
+    },
+    "69": {
+      "name": "Red Brick Wall Connect W",
+      "frame": {
+        "x": 128,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0069 Red Brick Wall Connect W.png"
+    },
+    "70": {
+      "name": "Red Brick Wall Connect Nw",
+      "frame": {
+        "x": 144,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0070 Red Brick Wall Connect Nw.png"
+    },
+    "71": {
+      "name": "Red Brick Wall Connect Ew",
+      "frame": {
+        "x": 160,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0071 Red Brick Wall Connect Ew.png"
+    },
+    "72": {
+      "name": "Red Brick Wall Connect New",
+      "frame": {
+        "x": 176,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0072 Red Brick Wall Connect New.png"
+    },
+    "73": {
+      "name": "Red Brick Wall Connect Sw",
+      "frame": {
+        "x": 192,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0073 Red Brick Wall Connect Sw.png"
+    },
+    "74": {
+      "name": "Red Brick Wall Connect Nsw",
+      "frame": {
+        "x": 208,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0074 Red Brick Wall Connect Nsw.png"
+    },
+    "75": {
+      "name": "Red Brick Wall Connect Esw",
+      "frame": {
+        "x": 224,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0075 Red Brick Wall Connect Esw.png"
+    },
+    "76": {
+      "name": "Red Brick Wall Connect Nesw",
+      "frame": {
+        "x": 240,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0076 Red Brick Wall Connect Nesw.png"
+    },
+    "77": {
+      "name": "Red Brick Wall Face Panel",
+      "frame": {
+        "x": 256,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0077 Red Brick Wall Face Panel.png"
+    },
+    "78": {
+      "name": "Red Brick Wall Cracked Face",
+      "frame": {
+        "x": 272,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0078 Red Brick Wall Cracked Face.png"
+    },
+    "79": {
+      "name": "Red Brick Wall Mossy Face",
+      "frame": {
+        "x": 288,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0079 Red Brick Wall Mossy Face.png"
+    },
+    "80": {
+      "name": "Red Brick Wall Recessed Face",
+      "frame": {
+        "x": 304,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0080 Red Brick Wall Recessed Face.png"
+    },
+    "81": {
+      "name": "Honey Oak Wall Connect None",
+      "frame": {
+        "x": 0,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0081 Honey Oak Wall Connect None.png"
+    },
+    "82": {
+      "name": "Honey Oak Wall Connect N",
+      "frame": {
+        "x": 16,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0082 Honey Oak Wall Connect N.png"
+    },
+    "83": {
+      "name": "Honey Oak Wall Connect E",
+      "frame": {
+        "x": 32,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0083 Honey Oak Wall Connect E.png"
+    },
+    "84": {
+      "name": "Honey Oak Wall Connect Ne",
+      "frame": {
+        "x": 48,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0084 Honey Oak Wall Connect Ne.png"
+    },
+    "85": {
+      "name": "Honey Oak Wall Connect S",
+      "frame": {
+        "x": 64,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0085 Honey Oak Wall Connect S.png"
+    },
+    "86": {
+      "name": "Honey Oak Wall Connect Ns",
+      "frame": {
+        "x": 80,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0086 Honey Oak Wall Connect Ns.png"
+    },
+    "87": {
+      "name": "Honey Oak Wall Connect Es",
+      "frame": {
+        "x": 96,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0087 Honey Oak Wall Connect Es.png"
+    },
+    "88": {
+      "name": "Honey Oak Wall Connect Nes",
+      "frame": {
+        "x": 112,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0088 Honey Oak Wall Connect Nes.png"
+    },
+    "89": {
+      "name": "Honey Oak Wall Connect W",
+      "frame": {
+        "x": 128,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0089 Honey Oak Wall Connect W.png"
+    },
+    "90": {
+      "name": "Honey Oak Wall Connect Nw",
+      "frame": {
+        "x": 144,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0090 Honey Oak Wall Connect Nw.png"
+    },
+    "91": {
+      "name": "Honey Oak Wall Connect Ew",
+      "frame": {
+        "x": 160,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0091 Honey Oak Wall Connect Ew.png"
+    },
+    "92": {
+      "name": "Honey Oak Wall Connect New",
+      "frame": {
+        "x": 176,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0092 Honey Oak Wall Connect New.png"
+    },
+    "93": {
+      "name": "Honey Oak Wall Connect Sw",
+      "frame": {
+        "x": 192,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0093 Honey Oak Wall Connect Sw.png"
+    },
+    "94": {
+      "name": "Honey Oak Wall Connect Nsw",
+      "frame": {
+        "x": 208,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0094 Honey Oak Wall Connect Nsw.png"
+    },
+    "95": {
+      "name": "Honey Oak Wall Connect Esw",
+      "frame": {
+        "x": 224,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0095 Honey Oak Wall Connect Esw.png"
+    },
+    "96": {
+      "name": "Honey Oak Wall Connect Nesw",
+      "frame": {
+        "x": 240,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0096 Honey Oak Wall Connect Nesw.png"
+    },
+    "97": {
+      "name": "Honey Oak Wall Face Panel",
+      "frame": {
+        "x": 256,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0097 Honey Oak Wall Face Panel.png"
+    },
+    "98": {
+      "name": "Honey Oak Wall Cracked Face",
+      "frame": {
+        "x": 272,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0098 Honey Oak Wall Cracked Face.png"
+    },
+    "99": {
+      "name": "Honey Oak Wall Mossy Face",
+      "frame": {
+        "x": 288,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0099 Honey Oak Wall Mossy Face.png"
+    },
+    "100": {
+      "name": "Honey Oak Wall Recessed Face",
+      "frame": {
+        "x": 304,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0100 Honey Oak Wall Recessed Face.png"
+    },
+    "101": {
+      "name": "Walnut Wall Connect None",
+      "frame": {
+        "x": 0,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0101 Walnut Wall Connect None.png"
+    },
+    "102": {
+      "name": "Walnut Wall Connect N",
+      "frame": {
+        "x": 16,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0102 Walnut Wall Connect N.png"
+    },
+    "103": {
+      "name": "Walnut Wall Connect E",
+      "frame": {
+        "x": 32,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0103 Walnut Wall Connect E.png"
+    },
+    "104": {
+      "name": "Walnut Wall Connect Ne",
+      "frame": {
+        "x": 48,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0104 Walnut Wall Connect Ne.png"
+    },
+    "105": {
+      "name": "Walnut Wall Connect S",
+      "frame": {
+        "x": 64,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0105 Walnut Wall Connect S.png"
+    },
+    "106": {
+      "name": "Walnut Wall Connect Ns",
+      "frame": {
+        "x": 80,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0106 Walnut Wall Connect Ns.png"
+    },
+    "107": {
+      "name": "Walnut Wall Connect Es",
+      "frame": {
+        "x": 96,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0107 Walnut Wall Connect Es.png"
+    },
+    "108": {
+      "name": "Walnut Wall Connect Nes",
+      "frame": {
+        "x": 112,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0108 Walnut Wall Connect Nes.png"
+    },
+    "109": {
+      "name": "Walnut Wall Connect W",
+      "frame": {
+        "x": 128,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0109 Walnut Wall Connect W.png"
+    },
+    "110": {
+      "name": "Walnut Wall Connect Nw",
+      "frame": {
+        "x": 144,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0110 Walnut Wall Connect Nw.png"
+    },
+    "111": {
+      "name": "Walnut Wall Connect Ew",
+      "frame": {
+        "x": 160,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0111 Walnut Wall Connect Ew.png"
+    },
+    "112": {
+      "name": "Walnut Wall Connect New",
+      "frame": {
+        "x": 176,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0112 Walnut Wall Connect New.png"
+    },
+    "113": {
+      "name": "Walnut Wall Connect Sw",
+      "frame": {
+        "x": 192,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0113 Walnut Wall Connect Sw.png"
+    },
+    "114": {
+      "name": "Walnut Wall Connect Nsw",
+      "frame": {
+        "x": 208,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0114 Walnut Wall Connect Nsw.png"
+    },
+    "115": {
+      "name": "Walnut Wall Connect Esw",
+      "frame": {
+        "x": 224,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0115 Walnut Wall Connect Esw.png"
+    },
+    "116": {
+      "name": "Walnut Wall Connect Nesw",
+      "frame": {
+        "x": 240,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0116 Walnut Wall Connect Nesw.png"
+    },
+    "117": {
+      "name": "Walnut Wall Face Panel",
+      "frame": {
+        "x": 256,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0117 Walnut Wall Face Panel.png"
+    },
+    "118": {
+      "name": "Walnut Wall Cracked Face",
+      "frame": {
+        "x": 272,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0118 Walnut Wall Cracked Face.png"
+    },
+    "119": {
+      "name": "Walnut Wall Mossy Face",
+      "frame": {
+        "x": 288,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0119 Walnut Wall Mossy Face.png"
+    },
+    "120": {
+      "name": "Walnut Wall Recessed Face",
+      "frame": {
+        "x": 304,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0120 Walnut Wall Recessed Face.png"
+    },
+    "121": {
+      "name": "Cream Timber Wall Connect None",
+      "frame": {
+        "x": 0,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0121 Cream Timber Wall Connect None.png"
+    },
+    "122": {
+      "name": "Cream Timber Wall Connect N",
+      "frame": {
+        "x": 16,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0122 Cream Timber Wall Connect N.png"
+    },
+    "123": {
+      "name": "Cream Timber Wall Connect E",
+      "frame": {
+        "x": 32,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0123 Cream Timber Wall Connect E.png"
+    },
+    "124": {
+      "name": "Cream Timber Wall Connect Ne",
+      "frame": {
+        "x": 48,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0124 Cream Timber Wall Connect Ne.png"
+    },
+    "125": {
+      "name": "Cream Timber Wall Connect S",
+      "frame": {
+        "x": 64,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0125 Cream Timber Wall Connect S.png"
+    },
+    "126": {
+      "name": "Cream Timber Wall Connect Ns",
+      "frame": {
+        "x": 80,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0126 Cream Timber Wall Connect Ns.png"
+    },
+    "127": {
+      "name": "Cream Timber Wall Connect Es",
+      "frame": {
+        "x": 96,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0127 Cream Timber Wall Connect Es.png"
+    },
+    "128": {
+      "name": "Cream Timber Wall Connect Nes",
+      "frame": {
+        "x": 112,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0128 Cream Timber Wall Connect Nes.png"
+    },
+    "129": {
+      "name": "Cream Timber Wall Connect W",
+      "frame": {
+        "x": 128,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0129 Cream Timber Wall Connect W.png"
+    },
+    "130": {
+      "name": "Cream Timber Wall Connect Nw",
+      "frame": {
+        "x": 144,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0130 Cream Timber Wall Connect Nw.png"
+    },
+    "131": {
+      "name": "Cream Timber Wall Connect Ew",
+      "frame": {
+        "x": 160,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0131 Cream Timber Wall Connect Ew.png"
+    },
+    "132": {
+      "name": "Cream Timber Wall Connect New",
+      "frame": {
+        "x": 176,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0132 Cream Timber Wall Connect New.png"
+    },
+    "133": {
+      "name": "Cream Timber Wall Connect Sw",
+      "frame": {
+        "x": 192,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0133 Cream Timber Wall Connect Sw.png"
+    },
+    "134": {
+      "name": "Cream Timber Wall Connect Nsw",
+      "frame": {
+        "x": 208,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0134 Cream Timber Wall Connect Nsw.png"
+    },
+    "135": {
+      "name": "Cream Timber Wall Connect Esw",
+      "frame": {
+        "x": 224,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0135 Cream Timber Wall Connect Esw.png"
+    },
+    "136": {
+      "name": "Cream Timber Wall Connect Nesw",
+      "frame": {
+        "x": 240,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0136 Cream Timber Wall Connect Nesw.png"
+    },
+    "137": {
+      "name": "Cream Timber Wall Face Panel",
+      "frame": {
+        "x": 256,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0137 Cream Timber Wall Face Panel.png"
+    },
+    "138": {
+      "name": "Cream Timber Wall Cracked Face",
+      "frame": {
+        "x": 272,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0138 Cream Timber Wall Cracked Face.png"
+    },
+    "139": {
+      "name": "Cream Timber Wall Mossy Face",
+      "frame": {
+        "x": 288,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0139 Cream Timber Wall Mossy Face.png"
+    },
+    "140": {
+      "name": "Cream Timber Wall Recessed Face",
+      "frame": {
+        "x": 304,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0140 Cream Timber Wall Recessed Face.png"
+    },
+    "141": {
+      "name": "Moss Stone Wall Connect None",
+      "frame": {
+        "x": 0,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0141 Moss Stone Wall Connect None.png"
+    },
+    "142": {
+      "name": "Moss Stone Wall Connect N",
+      "frame": {
+        "x": 16,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0142 Moss Stone Wall Connect N.png"
+    },
+    "143": {
+      "name": "Moss Stone Wall Connect E",
+      "frame": {
+        "x": 32,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0143 Moss Stone Wall Connect E.png"
+    },
+    "144": {
+      "name": "Moss Stone Wall Connect Ne",
+      "frame": {
+        "x": 48,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0144 Moss Stone Wall Connect Ne.png"
+    },
+    "145": {
+      "name": "Moss Stone Wall Connect S",
+      "frame": {
+        "x": 64,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0145 Moss Stone Wall Connect S.png"
+    },
+    "146": {
+      "name": "Moss Stone Wall Connect Ns",
+      "frame": {
+        "x": 80,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0146 Moss Stone Wall Connect Ns.png"
+    },
+    "147": {
+      "name": "Moss Stone Wall Connect Es",
+      "frame": {
+        "x": 96,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0147 Moss Stone Wall Connect Es.png"
+    },
+    "148": {
+      "name": "Moss Stone Wall Connect Nes",
+      "frame": {
+        "x": 112,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0148 Moss Stone Wall Connect Nes.png"
+    },
+    "149": {
+      "name": "Moss Stone Wall Connect W",
+      "frame": {
+        "x": 128,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0149 Moss Stone Wall Connect W.png"
+    },
+    "150": {
+      "name": "Moss Stone Wall Connect Nw",
+      "frame": {
+        "x": 144,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0150 Moss Stone Wall Connect Nw.png"
+    },
+    "151": {
+      "name": "Moss Stone Wall Connect Ew",
+      "frame": {
+        "x": 160,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0151 Moss Stone Wall Connect Ew.png"
+    },
+    "152": {
+      "name": "Moss Stone Wall Connect New",
+      "frame": {
+        "x": 176,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0152 Moss Stone Wall Connect New.png"
+    },
+    "153": {
+      "name": "Moss Stone Wall Connect Sw",
+      "frame": {
+        "x": 192,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0153 Moss Stone Wall Connect Sw.png"
+    },
+    "154": {
+      "name": "Moss Stone Wall Connect Nsw",
+      "frame": {
+        "x": 208,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0154 Moss Stone Wall Connect Nsw.png"
+    },
+    "155": {
+      "name": "Moss Stone Wall Connect Esw",
+      "frame": {
+        "x": 224,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0155 Moss Stone Wall Connect Esw.png"
+    },
+    "156": {
+      "name": "Moss Stone Wall Connect Nesw",
+      "frame": {
+        "x": 240,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0156 Moss Stone Wall Connect Nesw.png"
+    },
+    "157": {
+      "name": "Moss Stone Wall Face Panel",
+      "frame": {
+        "x": 256,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0157 Moss Stone Wall Face Panel.png"
+    },
+    "158": {
+      "name": "Moss Stone Wall Cracked Face",
+      "frame": {
+        "x": 272,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0158 Moss Stone Wall Cracked Face.png"
+    },
+    "159": {
+      "name": "Moss Stone Wall Mossy Face",
+      "frame": {
+        "x": 288,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0159 Moss Stone Wall Mossy Face.png"
+    },
+    "160": {
+      "name": "Moss Stone Wall Recessed Face",
+      "frame": {
+        "x": 304,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0160 Moss Stone Wall Recessed Face.png"
+    },
+    "161": {
+      "name": "Ivory Marble Wall Connect None",
+      "frame": {
+        "x": 0,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0161 Ivory Marble Wall Connect None.png"
+    },
+    "162": {
+      "name": "Ivory Marble Wall Connect N",
+      "frame": {
+        "x": 16,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0162 Ivory Marble Wall Connect N.png"
+    },
+    "163": {
+      "name": "Ivory Marble Wall Connect E",
+      "frame": {
+        "x": 32,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0163 Ivory Marble Wall Connect E.png"
+    },
+    "164": {
+      "name": "Ivory Marble Wall Connect Ne",
+      "frame": {
+        "x": 48,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0164 Ivory Marble Wall Connect Ne.png"
+    },
+    "165": {
+      "name": "Ivory Marble Wall Connect S",
+      "frame": {
+        "x": 64,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0165 Ivory Marble Wall Connect S.png"
+    },
+    "166": {
+      "name": "Ivory Marble Wall Connect Ns",
+      "frame": {
+        "x": 80,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0166 Ivory Marble Wall Connect Ns.png"
+    },
+    "167": {
+      "name": "Ivory Marble Wall Connect Es",
+      "frame": {
+        "x": 96,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0167 Ivory Marble Wall Connect Es.png"
+    },
+    "168": {
+      "name": "Ivory Marble Wall Connect Nes",
+      "frame": {
+        "x": 112,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0168 Ivory Marble Wall Connect Nes.png"
+    },
+    "169": {
+      "name": "Ivory Marble Wall Connect W",
+      "frame": {
+        "x": 128,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0169 Ivory Marble Wall Connect W.png"
+    },
+    "170": {
+      "name": "Ivory Marble Wall Connect Nw",
+      "frame": {
+        "x": 144,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0170 Ivory Marble Wall Connect Nw.png"
+    },
+    "171": {
+      "name": "Ivory Marble Wall Connect Ew",
+      "frame": {
+        "x": 160,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0171 Ivory Marble Wall Connect Ew.png"
+    },
+    "172": {
+      "name": "Ivory Marble Wall Connect New",
+      "frame": {
+        "x": 176,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0172 Ivory Marble Wall Connect New.png"
+    },
+    "173": {
+      "name": "Ivory Marble Wall Connect Sw",
+      "frame": {
+        "x": 192,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0173 Ivory Marble Wall Connect Sw.png"
+    },
+    "174": {
+      "name": "Ivory Marble Wall Connect Nsw",
+      "frame": {
+        "x": 208,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0174 Ivory Marble Wall Connect Nsw.png"
+    },
+    "175": {
+      "name": "Ivory Marble Wall Connect Esw",
+      "frame": {
+        "x": 224,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0175 Ivory Marble Wall Connect Esw.png"
+    },
+    "176": {
+      "name": "Ivory Marble Wall Connect Nesw",
+      "frame": {
+        "x": 240,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0176 Ivory Marble Wall Connect Nesw.png"
+    },
+    "177": {
+      "name": "Ivory Marble Wall Face Panel",
+      "frame": {
+        "x": 256,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0177 Ivory Marble Wall Face Panel.png"
+    },
+    "178": {
+      "name": "Ivory Marble Wall Cracked Face",
+      "frame": {
+        "x": 272,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0178 Ivory Marble Wall Cracked Face.png"
+    },
+    "179": {
+      "name": "Ivory Marble Wall Mossy Face",
+      "frame": {
+        "x": 288,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0179 Ivory Marble Wall Mossy Face.png"
+    },
+    "180": {
+      "name": "Ivory Marble Wall Recessed Face",
+      "frame": {
+        "x": 304,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0180 Ivory Marble Wall Recessed Face.png"
+    },
+    "181": {
+      "name": "Arcane Stone Wall Connect None",
+      "frame": {
+        "x": 0,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0181 Arcane Stone Wall Connect None.png"
+    },
+    "182": {
+      "name": "Arcane Stone Wall Connect N",
+      "frame": {
+        "x": 16,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0182 Arcane Stone Wall Connect N.png"
+    },
+    "183": {
+      "name": "Arcane Stone Wall Connect E",
+      "frame": {
+        "x": 32,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0183 Arcane Stone Wall Connect E.png"
+    },
+    "184": {
+      "name": "Arcane Stone Wall Connect Ne",
+      "frame": {
+        "x": 48,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0184 Arcane Stone Wall Connect Ne.png"
+    },
+    "185": {
+      "name": "Arcane Stone Wall Connect S",
+      "frame": {
+        "x": 64,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0185 Arcane Stone Wall Connect S.png"
+    },
+    "186": {
+      "name": "Arcane Stone Wall Connect Ns",
+      "frame": {
+        "x": 80,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0186 Arcane Stone Wall Connect Ns.png"
+    },
+    "187": {
+      "name": "Arcane Stone Wall Connect Es",
+      "frame": {
+        "x": 96,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0187 Arcane Stone Wall Connect Es.png"
+    },
+    "188": {
+      "name": "Arcane Stone Wall Connect Nes",
+      "frame": {
+        "x": 112,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0188 Arcane Stone Wall Connect Nes.png"
+    },
+    "189": {
+      "name": "Arcane Stone Wall Connect W",
+      "frame": {
+        "x": 128,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0189 Arcane Stone Wall Connect W.png"
+    },
+    "190": {
+      "name": "Arcane Stone Wall Connect Nw",
+      "frame": {
+        "x": 144,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0190 Arcane Stone Wall Connect Nw.png"
+    },
+    "191": {
+      "name": "Arcane Stone Wall Connect Ew",
+      "frame": {
+        "x": 160,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0191 Arcane Stone Wall Connect Ew.png"
+    },
+    "192": {
+      "name": "Arcane Stone Wall Connect New",
+      "frame": {
+        "x": 176,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0192 Arcane Stone Wall Connect New.png"
+    },
+    "193": {
+      "name": "Arcane Stone Wall Connect Sw",
+      "frame": {
+        "x": 192,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0193 Arcane Stone Wall Connect Sw.png"
+    },
+    "194": {
+      "name": "Arcane Stone Wall Connect Nsw",
+      "frame": {
+        "x": 208,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0194 Arcane Stone Wall Connect Nsw.png"
+    },
+    "195": {
+      "name": "Arcane Stone Wall Connect Esw",
+      "frame": {
+        "x": 224,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0195 Arcane Stone Wall Connect Esw.png"
+    },
+    "196": {
+      "name": "Arcane Stone Wall Connect Nesw",
+      "frame": {
+        "x": 240,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0196 Arcane Stone Wall Connect Nesw.png"
+    },
+    "197": {
+      "name": "Arcane Stone Wall Face Panel",
+      "frame": {
+        "x": 256,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0197 Arcane Stone Wall Face Panel.png"
+    },
+    "198": {
+      "name": "Arcane Stone Wall Cracked Face",
+      "frame": {
+        "x": 272,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0198 Arcane Stone Wall Cracked Face.png"
+    },
+    "199": {
+      "name": "Arcane Stone Wall Mossy Face",
+      "frame": {
+        "x": 288,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0199 Arcane Stone Wall Mossy Face.png"
+    },
+    "200": {
+      "name": "Arcane Stone Wall Recessed Face",
+      "frame": {
+        "x": 304,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Walls/0200 Arcane Stone Wall Recessed Face.png"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "image": "projectile.png",
+  "frame_width": 32,
+  "frame_height": 32,
+  "kind": "arrow",
+  "pivot": [
+    16,
+    16
+  ],
+  "pivot_note": "the head of the shot; place it on the muzzle point, then move it",
+  "flight": {
+    "rows": {
+      "right": 0,
+      "down_right": 1,
+      "down": 2,
+      "down_left": 3,
+      "left": 4,
+      "up_left": 5,
+      "up": 6,
+      "up_right": 7
+    },
+    "frames": 4,
+    "fps": 12,
+    "loop": true,
+    "angles": {
+      "right": 0,
+      "down_right": 315,
+      "down": 270,
+      "down_left": 225,
+      "left": 180,
+      "up_left": 135,
+      "up": 90,
+      "up_right": 45
+    }
+  },
+  "impact": {
+    "row": 8,
+    "frames": 5,
+    "fps": 14,
+    "loop": false
+  },
+  "speed_px_per_frame": 6
+}

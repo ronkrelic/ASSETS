@@ -1,0 +1,21 @@
+RELEASE CHECK — VERSION 1.0
+FREE Interior Small Fantasy Builder Pack
+
+Individual sprite files: 1,000 / 1,000
+Distinct rendered sprite images: 1,000 / 1,000
+Category totals: 200 walls, 200 floors, 200 furniture,
+150 interior props, 150 dungeon elements, 100 arcane objects.
+Sprite size, non-empty pixels, binary alpha and grid checks: passed.
+Atlas frame comparisons against individual PNGs: 2000 / 2000 matched.
+Tileset image references and dimensions: 1002 / 1002 valid.
+Editable example map references, tile IDs and object dimensions: 3 / 3 valid.
+Room screenshot comparisons with native renders: 3 / 3 exact at 3x scale.
+Cover/banner/background dimensions: passed.
+Numbered listing screenshots: 5 / 5 present.
+CSV/JSON catalogue counts: passed.
+Archive integrity: passed.
+Offline catalogue search, category filters, zoom and PNG links: passed.
+Catalogue checks exercise JavaScript; full browser layout was not tested.
+
+Checks cover file contents and references. Example maps are static layouts;
+they have no game logic or collision. Engine-specific play testing is not claimed.

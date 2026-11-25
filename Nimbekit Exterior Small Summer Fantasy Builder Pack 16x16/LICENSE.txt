@@ -1,0 +1,22 @@
+NIMBEKIT ASSET LICENSE — EXTERIOR SMALL SUMMER FANTASY BUILDER PACK BUILDER
+Version 1.0
+
+This license applies to the assets, example maps and documentation in this pack.
+
+PERMITTED USE
+You may use these files in any number of personal or commercial games and other finished creative projects. You may modify, recolor, resize and combine the assets with your own work. You may show the assets in screenshots, trailers, streams and promotional materials for those projects. You may share the files privately with collaborators working on the same project, provided they follow these terms.
+
+CREDIT
+Credit is appreciated but not required. Suggested credit: "Environment assets: Nimbekit — Exterior Small Summer Fantasy Builder Pack."
+
+RESTRICTIONS
+Do not resell, redistribute, sublicense or upload the original or modified assets as a standalone asset pack, stock collection, template library or downloadable resource. Do not make the source files publicly available outside a finished project. Do not claim that you created the unmodified asset artwork. Collaborators may not reuse a shared copy in unrelated projects without their own permission or license.
+
+FINISHED PROJECT DISTRIBUTION
+You may distribute the assets as part of a finished project, including commercial games, provided the assets are incorporated into that project and are not offered as a substitute for this pack. A project may include editable or embedded asset files when needed by the chosen engine; do not separately expose them as an asset download.
+
+NO EXCLUSIVITY OR WARRANTY
+The permission granted is non-exclusive and limited to rights the provider can grant. Files are supplied as-is, without a promise of fitness for a particular engine or project. This license does not transfer ownership of third-party trademarks or grant rights to unrelated materials.
+
+ACCEPTANCE
+Using or redistributing a project containing these assets constitutes acceptance of these terms. These terms do not restrict rights that cannot be restricted under applicable law.

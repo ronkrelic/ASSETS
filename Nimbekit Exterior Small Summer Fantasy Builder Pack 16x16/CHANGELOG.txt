@@ -1,0 +1,2 @@
+Version 1.0 — 17 October 2026
+Initial release: 600 static 16×16 assets, eight atlases, two TSX tilesets, three example maps and documentation.

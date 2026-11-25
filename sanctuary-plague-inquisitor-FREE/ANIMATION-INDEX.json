@@ -1,0 +1,22 @@
+{
+  "Idle": {
+    "east": 20,
+    "north": 20,
+    "north-east": 20,
+    "north-west": 20,
+    "south": 20,
+    "south-east": 20,
+    "south-west": 20,
+    "west": 20
+  },
+  "Walk": {
+    "east": 16,
+    "north": 16,
+    "north-east": 16,
+    "north-west": 16,
+    "south": 16,
+    "south-east": 16,
+    "south-west": 16,
+    "west": 16
+  }
+}

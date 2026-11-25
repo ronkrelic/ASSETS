@@ -1,0 +1,2810 @@
+{
+  "image": "Furniture.png",
+  "width": 480,
+  "height": 960,
+  "slotWidth": 48,
+  "slotHeight": 48,
+  "columns": 10,
+  "frames": {
+    "401": {
+      "name": "Plain Wooden Chair",
+      "frame": {
+        "x": 16,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0401 Plain Wooden Chair.png"
+    },
+    "402": {
+      "name": "High-backed Chair",
+      "frame": {
+        "x": 64,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0402 High-backed Chair.png"
+    },
+    "403": {
+      "name": "Red Padded Chair",
+      "frame": {
+        "x": 112,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0403 Red Padded Chair.png"
+    },
+    "404": {
+      "name": "Green Padded Chair",
+      "frame": {
+        "x": 160,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0404 Green Padded Chair.png"
+    },
+    "405": {
+      "name": "Blue Padded Chair",
+      "frame": {
+        "x": 208,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0405 Blue Padded Chair.png"
+    },
+    "406": {
+      "name": "Round Stool",
+      "frame": {
+        "x": 256,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0406 Round Stool.png"
+    },
+    "407": {
+      "name": "Three-legged Stool",
+      "frame": {
+        "x": 304,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0407 Three-legged Stool.png"
+    },
+    "408": {
+      "name": "Square Stool",
+      "frame": {
+        "x": 352,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0408 Square Stool.png"
+    },
+    "409": {
+      "name": "Long Bench",
+      "frame": {
+        "x": 392,
+        "y": 32,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0409 Long Bench.png"
+    },
+    "410": {
+      "name": "Corner Bench",
+      "frame": {
+        "x": 440,
+        "y": 32,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0410 Corner Bench.png"
+    },
+    "411": {
+      "name": "Round Dining Table",
+      "frame": {
+        "x": 8,
+        "y": 64,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0411 Round Dining Table.png"
+    },
+    "412": {
+      "name": "Square Dining Table",
+      "frame": {
+        "x": 56,
+        "y": 80,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0412 Square Dining Table.png"
+    },
+    "413": {
+      "name": "Long Dining Table",
+      "frame": {
+        "x": 104,
+        "y": 80,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0413 Long Dining Table.png"
+    },
+    "414": {
+      "name": "Short Coffee Table",
+      "frame": {
+        "x": 152,
+        "y": 80,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0414 Short Coffee Table.png"
+    },
+    "415": {
+      "name": "Writing Desk",
+      "frame": {
+        "x": 200,
+        "y": 80,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0415 Writing Desk.png"
+    },
+    "416": {
+      "name": "Lectern",
+      "frame": {
+        "x": 256,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0416 Lectern.png"
+    },
+    "417": {
+      "name": "Bedside Table",
+      "frame": {
+        "x": 304,
+        "y": 64,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0417 Bedside Table.png"
+    },
+    "418": {
+      "name": "Console Table",
+      "frame": {
+        "x": 344,
+        "y": 80,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0418 Console Table.png"
+    },
+    "419": {
+      "name": "Workbench",
+      "frame": {
+        "x": 392,
+        "y": 80,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0419 Workbench.png"
+    },
+    "420": {
+      "name": "Folding Table",
+      "frame": {
+        "x": 440,
+        "y": 80,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0420 Folding Table.png"
+    },
+    "421": {
+      "name": "Single Red Bed",
+      "frame": {
+        "x": 16,
+        "y": 112,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0421 Single Red Bed.png"
+    },
+    "422": {
+      "name": "Single Blue Bed",
+      "frame": {
+        "x": 64,
+        "y": 112,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0422 Single Blue Bed.png"
+    },
+    "423": {
+      "name": "Single Green Bed",
+      "frame": {
+        "x": 112,
+        "y": 112,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0423 Single Green Bed.png"
+    },
+    "424": {
+      "name": "Double Red Bed",
+      "frame": {
+        "x": 152,
+        "y": 112,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0424 Double Red Bed.png"
+    },
+    "425": {
+      "name": "Double Blue Bed",
+      "frame": {
+        "x": 200,
+        "y": 112,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0425 Double Blue Bed.png"
+    },
+    "426": {
+      "name": "Canopy Bed",
+      "frame": {
+        "x": 248,
+        "y": 96,
+        "w": 32,
+        "h": 48
+      },
+      "origin": {
+        "x": 16,
+        "y": 48
+      },
+      "source": "Sprites/Furniture/0426 Canopy Bed.png"
+    },
+    "427": {
+      "name": "Bunk Bed",
+      "frame": {
+        "x": 304,
+        "y": 112,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0427 Bunk Bed.png"
+    },
+    "428": {
+      "name": "Hay Mattress",
+      "frame": {
+        "x": 352,
+        "y": 112,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0428 Hay Mattress.png"
+    },
+    "429": {
+      "name": "Straw Bedroll",
+      "frame": {
+        "x": 400,
+        "y": 112,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0429 Straw Bedroll.png"
+    },
+    "430": {
+      "name": "Royal Purple Bed",
+      "frame": {
+        "x": 448,
+        "y": 112,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0430 Royal Purple Bed.png"
+    },
+    "431": {
+      "name": "Narrow Bookcase",
+      "frame": {
+        "x": 16,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0431 Narrow Bookcase.png"
+    },
+    "432": {
+      "name": "Wide Bookcase",
+      "frame": {
+        "x": 64,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0432 Wide Bookcase.png"
+    },
+    "433": {
+      "name": "Tall Bookcase",
+      "frame": {
+        "x": 112,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0433 Tall Bookcase.png"
+    },
+    "434": {
+      "name": "Empty Bookcase",
+      "frame": {
+        "x": 160,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0434 Empty Bookcase.png"
+    },
+    "435": {
+      "name": "Corner Bookcase",
+      "frame": {
+        "x": 208,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0435 Corner Bookcase.png"
+    },
+    "436": {
+      "name": "Scroll Shelf",
+      "frame": {
+        "x": 256,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0436 Scroll Shelf.png"
+    },
+    "437": {
+      "name": "Potion Shelf",
+      "frame": {
+        "x": 304,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0437 Potion Shelf.png"
+    },
+    "438": {
+      "name": "Dish Shelf",
+      "frame": {
+        "x": 352,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0438 Dish Shelf.png"
+    },
+    "439": {
+      "name": "Wall Cabinet",
+      "frame": {
+        "x": 400,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0439 Wall Cabinet.png"
+    },
+    "440": {
+      "name": "Display Cabinet",
+      "frame": {
+        "x": 448,
+        "y": 160,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0440 Display Cabinet.png"
+    },
+    "441": {
+      "name": "Plain Wardrobe",
+      "frame": {
+        "x": 16,
+        "y": 208,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0441 Plain Wardrobe.png"
+    },
+    "442": {
+      "name": "Mirrored Wardrobe",
+      "frame": {
+        "x": 64,
+        "y": 208,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0442 Mirrored Wardrobe.png"
+    },
+    "443": {
+      "name": "Single-door Cupboard",
+      "frame": {
+        "x": 112,
+        "y": 208,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0443 Single-door Cupboard.png"
+    },
+    "444": {
+      "name": "Double-door Cupboard",
+      "frame": {
+        "x": 152,
+        "y": 208,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0444 Double-door Cupboard.png"
+    },
+    "445": {
+      "name": "Oak Dresser",
+      "frame": {
+        "x": 208,
+        "y": 208,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0445 Oak Dresser.png"
+    },
+    "446": {
+      "name": "Three-drawer Cabinet",
+      "frame": {
+        "x": 256,
+        "y": 208,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0446 Three-drawer Cabinet.png"
+    },
+    "447": {
+      "name": "Low Chest Of Drawers",
+      "frame": {
+        "x": 304,
+        "y": 224,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0447 Low Chest Of Drawers.png"
+    },
+    "448": {
+      "name": "Linen Cupboard",
+      "frame": {
+        "x": 352,
+        "y": 208,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0448 Linen Cupboard.png"
+    },
+    "449": {
+      "name": "Empty Open Wardrobe",
+      "frame": {
+        "x": 400,
+        "y": 208,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0449 Empty Open Wardrobe.png"
+    },
+    "450": {
+      "name": "Carved Armoire",
+      "frame": {
+        "x": 448,
+        "y": 208,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0450 Carved Armoire.png"
+    },
+    "451": {
+      "name": "Closed Wooden Chest",
+      "frame": {
+        "x": 16,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0451 Closed Wooden Chest.png"
+    },
+    "452": {
+      "name": "Open Wooden Chest",
+      "frame": {
+        "x": 64,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0452 Open Wooden Chest.png"
+    },
+    "453": {
+      "name": "Reinforced Closed Chest",
+      "frame": {
+        "x": 112,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0453 Reinforced Closed Chest.png"
+    },
+    "454": {
+      "name": "Iron Open Chest",
+      "frame": {
+        "x": 160,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0454 Iron Open Chest.png"
+    },
+    "455": {
+      "name": "Red Treasure Chest",
+      "frame": {
+        "x": 208,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0455 Red Treasure Chest.png"
+    },
+    "456": {
+      "name": "Blue Treasure Chest",
+      "frame": {
+        "x": 256,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0456 Blue Treasure Chest.png"
+    },
+    "457": {
+      "name": "Small Lockbox",
+      "frame": {
+        "x": 304,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0457 Small Lockbox.png"
+    },
+    "458": {
+      "name": "Pirate Chest",
+      "frame": {
+        "x": 352,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0458 Pirate Chest.png"
+    },
+    "459": {
+      "name": "Luggage Trunk",
+      "frame": {
+        "x": 400,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0459 Luggage Trunk.png"
+    },
+    "460": {
+      "name": "Wicker Trunk",
+      "frame": {
+        "x": 448,
+        "y": 272,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0460 Wicker Trunk.png"
+    },
+    "461": {
+      "name": "Straight Bar Counter",
+      "frame": {
+        "x": 8,
+        "y": 320,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0461 Straight Bar Counter.png"
+    },
+    "462": {
+      "name": "Bar Corner Counter",
+      "frame": {
+        "x": 56,
+        "y": 320,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0462 Bar Corner Counter.png"
+    },
+    "463": {
+      "name": "Stocked Tavern Bar",
+      "frame": {
+        "x": 112,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0463 Stocked Tavern Bar.png"
+    },
+    "464": {
+      "name": "Kitchen Island",
+      "frame": {
+        "x": 160,
+        "y": 320,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0464 Kitchen Island.png"
+    },
+    "465": {
+      "name": "Butcher Counter",
+      "frame": {
+        "x": 200,
+        "y": 320,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0465 Butcher Counter.png"
+    },
+    "466": {
+      "name": "Bakery Counter",
+      "frame": {
+        "x": 248,
+        "y": 320,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0466 Bakery Counter.png"
+    },
+    "467": {
+      "name": "Merchant Display Table",
+      "frame": {
+        "x": 296,
+        "y": 320,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0467 Merchant Display Table.png"
+    },
+    "468": {
+      "name": "Market Cash Desk",
+      "frame": {
+        "x": 344,
+        "y": 320,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0468 Market Cash Desk.png"
+    },
+    "469": {
+      "name": "Apothecary Counter",
+      "frame": {
+        "x": 392,
+        "y": 320,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0469 Apothecary Counter.png"
+    },
+    "470": {
+      "name": "Serving Trolley",
+      "frame": {
+        "x": 440,
+        "y": 320,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0470 Serving Trolley.png"
+    },
+    "471": {
+      "name": "Small Stone Fireplace",
+      "frame": {
+        "x": 8,
+        "y": 368,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0471 Small Stone Fireplace.png"
+    },
+    "472": {
+      "name": "Large Stone Fireplace",
+      "frame": {
+        "x": 56,
+        "y": 368,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0472 Large Stone Fireplace.png"
+    },
+    "473": {
+      "name": "Brick Hearth",
+      "frame": {
+        "x": 104,
+        "y": 368,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0473 Brick Hearth.png"
+    },
+    "474": {
+      "name": "Tile Stove",
+      "frame": {
+        "x": 160,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0474 Tile Stove.png"
+    },
+    "475": {
+      "name": "Cast-iron Stove",
+      "frame": {
+        "x": 208,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0475 Cast-iron Stove.png"
+    },
+    "476": {
+      "name": "Bread Oven",
+      "frame": {
+        "x": 248,
+        "y": 368,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0476 Bread Oven.png"
+    },
+    "477": {
+      "name": "Cooking Range",
+      "frame": {
+        "x": 296,
+        "y": 368,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0477 Cooking Range.png"
+    },
+    "478": {
+      "name": "Copper Stove",
+      "frame": {
+        "x": 352,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0478 Copper Stove.png"
+    },
+    "479": {
+      "name": "Chimney Hood",
+      "frame": {
+        "x": 392,
+        "y": 368,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0479 Chimney Hood.png"
+    },
+    "480": {
+      "name": "Stone Washbasin",
+      "frame": {
+        "x": 448,
+        "y": 368,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0480 Stone Washbasin.png"
+    },
+    "481": {
+      "name": "Round Bathtub",
+      "frame": {
+        "x": 8,
+        "y": 416,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0481 Round Bathtub.png"
+    },
+    "482": {
+      "name": "Wooden Wash Tub",
+      "frame": {
+        "x": 56,
+        "y": 416,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0482 Wooden Wash Tub.png"
+    },
+    "483": {
+      "name": "Large Indoor Basin",
+      "frame": {
+        "x": 112,
+        "y": 416,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0483 Large Indoor Basin.png"
+    },
+    "484": {
+      "name": "Folding Screen",
+      "frame": {
+        "x": 160,
+        "y": 400,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0484 Folding Screen.png"
+    },
+    "485": {
+      "name": "Coat Rack",
+      "frame": {
+        "x": 208,
+        "y": 400,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0485 Coat Rack.png"
+    },
+    "486": {
+      "name": "Armor Stand",
+      "frame": {
+        "x": 256,
+        "y": 400,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0486 Armor Stand.png"
+    },
+    "487": {
+      "name": "Weapon Rack",
+      "frame": {
+        "x": 304,
+        "y": 400,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0487 Weapon Rack.png"
+    },
+    "488": {
+      "name": "Harp",
+      "frame": {
+        "x": 344,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0488 Harp.png"
+    },
+    "489": {
+      "name": "Upright Piano Medieval Fantasy",
+      "frame": {
+        "x": 392,
+        "y": 416,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0489 Upright Piano Medieval Fantasy.png"
+    },
+    "490": {
+      "name": "Spinning Wheel",
+      "frame": {
+        "x": 440,
+        "y": 400,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0490 Spinning Wheel.png"
+    },
+    "491": {
+      "name": "Red Upholstered Sofa",
+      "frame": {
+        "x": 8,
+        "y": 464,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0491 Red Upholstered Sofa.png"
+    },
+    "492": {
+      "name": "Green Sofa",
+      "frame": {
+        "x": 56,
+        "y": 464,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0492 Green Sofa.png"
+    },
+    "493": {
+      "name": "Blue Sofa",
+      "frame": {
+        "x": 104,
+        "y": 464,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0493 Blue Sofa.png"
+    },
+    "494": {
+      "name": "Red Armchair",
+      "frame": {
+        "x": 160,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0494 Red Armchair.png"
+    },
+    "495": {
+      "name": "Green Armchair",
+      "frame": {
+        "x": 208,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0495 Green Armchair.png"
+    },
+    "496": {
+      "name": "Blue Armchair",
+      "frame": {
+        "x": 256,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0496 Blue Armchair.png"
+    },
+    "497": {
+      "name": "Wicker Chair",
+      "frame": {
+        "x": 304,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0497 Wicker Chair.png"
+    },
+    "498": {
+      "name": "Rocking Chair",
+      "frame": {
+        "x": 352,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0498 Rocking Chair.png"
+    },
+    "499": {
+      "name": "Prayer Kneeler",
+      "frame": {
+        "x": 400,
+        "y": 464,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0499 Prayer Kneeler.png"
+    },
+    "500": {
+      "name": "Carved Throne",
+      "frame": {
+        "x": 448,
+        "y": 448,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0500 Carved Throne.png"
+    },
+    "501": {
+      "name": "Alchemist Laboratory Desk",
+      "frame": {
+        "x": 8,
+        "y": 512,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0501 Alchemist Laboratory Desk.png"
+    },
+    "502": {
+      "name": "Rune Carving Desk",
+      "frame": {
+        "x": 56,
+        "y": 512,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0502 Rune Carving Desk.png"
+    },
+    "503": {
+      "name": "Jeweler Workbench",
+      "frame": {
+        "x": 104,
+        "y": 512,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0503 Jeweler Workbench.png"
+    },
+    "504": {
+      "name": "Tailoring Table",
+      "frame": {
+        "x": 152,
+        "y": 512,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0504 Tailoring Table.png"
+    },
+    "505": {
+      "name": "Cobbler Bench",
+      "frame": {
+        "x": 200,
+        "y": 512,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0505 Cobbler Bench.png"
+    },
+    "506": {
+      "name": "Scribe Desk",
+      "frame": {
+        "x": 256,
+        "y": 496,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0506 Scribe Desk.png"
+    },
+    "507": {
+      "name": "Cartography Desk",
+      "frame": {
+        "x": 296,
+        "y": 512,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0507 Cartography Desk.png"
+    },
+    "508": {
+      "name": "Engineer Workbench",
+      "frame": {
+        "x": 344,
+        "y": 512,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0508 Engineer Workbench.png"
+    },
+    "509": {
+      "name": "Herbalist Table",
+      "frame": {
+        "x": 392,
+        "y": 512,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0509 Herbalist Table.png"
+    },
+    "510": {
+      "name": "Enchanting Table",
+      "frame": {
+        "x": 440,
+        "y": 512,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0510 Enchanting Table.png"
+    },
+    "511": {
+      "name": "Four-post Royal Bed",
+      "frame": {
+        "x": 8,
+        "y": 528,
+        "w": 32,
+        "h": 48
+      },
+      "origin": {
+        "x": 16,
+        "y": 48
+      },
+      "source": "Sprites/Furniture/0511 Four-post Royal Bed.png"
+    },
+    "512": {
+      "name": "Velvet Daybed",
+      "frame": {
+        "x": 56,
+        "y": 544,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0512 Velvet Daybed.png"
+    },
+    "513": {
+      "name": "Green Hospital Cot",
+      "frame": {
+        "x": 112,
+        "y": 544,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0513 Green Hospital Cot.png"
+    },
+    "514": {
+      "name": "Blue Hospital Cot",
+      "frame": {
+        "x": 160,
+        "y": 544,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0514 Blue Hospital Cot.png"
+    },
+    "515": {
+      "name": "Monk Cot",
+      "frame": {
+        "x": 208,
+        "y": 544,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0515 Monk Cot.png"
+    },
+    "516": {
+      "name": "Stone Sleeping Slab",
+      "frame": {
+        "x": 256,
+        "y": 560,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0516 Stone Sleeping Slab.png"
+    },
+    "517": {
+      "name": "Double Green Bed",
+      "frame": {
+        "x": 296,
+        "y": 544,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0517 Double Green Bed.png"
+    },
+    "518": {
+      "name": "Nursery Cradle",
+      "frame": {
+        "x": 352,
+        "y": 544,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0518 Nursery Cradle.png"
+    },
+    "519": {
+      "name": "Wooden Crib",
+      "frame": {
+        "x": 400,
+        "y": 544,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0519 Wooden Crib.png"
+    },
+    "520": {
+      "name": "Hammock On Stand",
+      "frame": {
+        "x": 448,
+        "y": 544,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0520 Hammock On Stand.png"
+    },
+    "521": {
+      "name": "Gold Throne",
+      "frame": {
+        "x": 16,
+        "y": 592,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0521 Gold Throne.png"
+    },
+    "522": {
+      "name": "Bone Throne",
+      "frame": {
+        "x": 64,
+        "y": 592,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0522 Bone Throne.png"
+    },
+    "523": {
+      "name": "Crystal Throne",
+      "frame": {
+        "x": 112,
+        "y": 592,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0523 Crystal Throne.png"
+    },
+    "524": {
+      "name": "Stone Throne",
+      "frame": {
+        "x": 160,
+        "y": 592,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0524 Stone Throne.png"
+    },
+    "525": {
+      "name": "Rustic High Chair",
+      "frame": {
+        "x": 208,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0525 Rustic High Chair.png"
+    },
+    "526": {
+      "name": "Round-backed Chair",
+      "frame": {
+        "x": 256,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0526 Round-backed Chair.png"
+    },
+    "527": {
+      "name": "X-backed Chair",
+      "frame": {
+        "x": 304,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0527 X-backed Chair.png"
+    },
+    "528": {
+      "name": "Padded Dining Bench",
+      "frame": {
+        "x": 344,
+        "y": 608,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0528 Padded Dining Bench.png"
+    },
+    "529": {
+      "name": "Curved Stone Bench",
+      "frame": {
+        "x": 392,
+        "y": 608,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0529 Curved Stone Bench.png"
+    },
+    "530": {
+      "name": "Upholstered Window Seat",
+      "frame": {
+        "x": 448,
+        "y": 608,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0530 Upholstered Window Seat.png"
+    },
+    "531": {
+      "name": "Circular Council Table",
+      "frame": {
+        "x": 8,
+        "y": 640,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0531 Circular Council Table.png"
+    },
+    "532": {
+      "name": "Octagonal Table",
+      "frame": {
+        "x": 56,
+        "y": 640,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0532 Octagonal Table.png"
+    },
+    "533": {
+      "name": "Table With Map",
+      "frame": {
+        "x": 104,
+        "y": 656,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0533 Table With Map.png"
+    },
+    "534": {
+      "name": "Banquet Table With Plates",
+      "frame": {
+        "x": 152,
+        "y": 656,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0534 Banquet Table With Plates.png"
+    },
+    "535": {
+      "name": "Table With Candle",
+      "frame": {
+        "x": 200,
+        "y": 656,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0535 Table With Candle.png"
+    },
+    "536": {
+      "name": "Table With Books",
+      "frame": {
+        "x": 248,
+        "y": 656,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0536 Table With Books.png"
+    },
+    "537": {
+      "name": "Table With Meal",
+      "frame": {
+        "x": 296,
+        "y": 656,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0537 Table With Meal.png"
+    },
+    "538": {
+      "name": "Sewing Table With Fabric",
+      "frame": {
+        "x": 344,
+        "y": 656,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0538 Sewing Table With Fabric.png"
+    },
+    "539": {
+      "name": "Chess Table",
+      "frame": {
+        "x": 392,
+        "y": 640,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0539 Chess Table.png"
+    },
+    "540": {
+      "name": "Herb Drying Table",
+      "frame": {
+        "x": 440,
+        "y": 656,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0540 Herb Drying Table.png"
+    },
+    "541": {
+      "name": "Curved Library Shelf",
+      "frame": {
+        "x": 16,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0541 Curved Library Shelf.png"
+    },
+    "542": {
+      "name": "Cabinet Of Scrolls",
+      "frame": {
+        "x": 64,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0542 Cabinet Of Scrolls.png"
+    },
+    "543": {
+      "name": "Glass Potion Cabinet",
+      "frame": {
+        "x": 112,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0543 Glass Potion Cabinet.png"
+    },
+    "544": {
+      "name": "Wall Plate Cabinet",
+      "frame": {
+        "x": 160,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0544 Wall Plate Cabinet.png"
+    },
+    "545": {
+      "name": "Open Crockery Dresser",
+      "frame": {
+        "x": 208,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0545 Open Crockery Dresser.png"
+    },
+    "546": {
+      "name": "Cubby Shelf",
+      "frame": {
+        "x": 256,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0546 Cubby Shelf.png"
+    },
+    "547": {
+      "name": "Wine Bottle Rack",
+      "frame": {
+        "x": 304,
+        "y": 704,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0547 Wine Bottle Rack.png"
+    },
+    "548": {
+      "name": "Ladder Shelf",
+      "frame": {
+        "x": 352,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0548 Ladder Shelf.png"
+    },
+    "549": {
+      "name": "Wall Tool Cabinet",
+      "frame": {
+        "x": 400,
+        "y": 688,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0549 Wall Tool Cabinet.png"
+    },
+    "550": {
+      "name": "Apothecary Drawers",
+      "frame": {
+        "x": 448,
+        "y": 704,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0550 Apothecary Drawers.png"
+    },
+    "551": {
+      "name": "Sack Storage Bin",
+      "frame": {
+        "x": 16,
+        "y": 752,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0551 Sack Storage Bin.png"
+    },
+    "552": {
+      "name": "Grain Storage Bin",
+      "frame": {
+        "x": 64,
+        "y": 752,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0552 Grain Storage Bin.png"
+    },
+    "553": {
+      "name": "Round Food Barrel",
+      "frame": {
+        "x": 112,
+        "y": 752,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0553 Round Food Barrel.png"
+    },
+    "554": {
+      "name": "Tap Keg",
+      "frame": {
+        "x": 160,
+        "y": 752,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0554 Tap Keg.png"
+    },
+    "555": {
+      "name": "Stacked Keg Rack",
+      "frame": {
+        "x": 208,
+        "y": 752,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0555 Stacked Keg Rack.png"
+    },
+    "556": {
+      "name": "Large Flour Bin",
+      "frame": {
+        "x": 256,
+        "y": 752,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0556 Large Flour Bin.png"
+    },
+    "557": {
+      "name": "Bread Cupboard",
+      "frame": {
+        "x": 304,
+        "y": 736,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0557 Bread Cupboard.png"
+    },
+    "558": {
+      "name": "Fish Storage Box",
+      "frame": {
+        "x": 352,
+        "y": 752,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0558 Fish Storage Box.png"
+    },
+    "559": {
+      "name": "Open Supply Crate",
+      "frame": {
+        "x": 400,
+        "y": 752,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0559 Open Supply Crate.png"
+    },
+    "560": {
+      "name": "Closed Supply Crate",
+      "frame": {
+        "x": 448,
+        "y": 752,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0560 Closed Supply Crate.png"
+    },
+    "561": {
+      "name": "Blacksmith Anvil On Stump",
+      "frame": {
+        "x": 16,
+        "y": 800,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0561 Blacksmith Anvil On Stump.png"
+    },
+    "562": {
+      "name": "Metal Forge",
+      "frame": {
+        "x": 56,
+        "y": 784,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0562 Metal Forge.png"
+    },
+    "563": {
+      "name": "Water Trough",
+      "frame": {
+        "x": 104,
+        "y": 800,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0563 Water Trough.png"
+    },
+    "564": {
+      "name": "Large Grindstone",
+      "frame": {
+        "x": 152,
+        "y": 784,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0564 Large Grindstone.png"
+    },
+    "565": {
+      "name": "Leather Tanning Frame",
+      "frame": {
+        "x": 208,
+        "y": 784,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0565 Leather Tanning Frame.png"
+    },
+    "566": {
+      "name": "Saw Bench",
+      "frame": {
+        "x": 248,
+        "y": 800,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0566 Saw Bench.png"
+    },
+    "567": {
+      "name": "Loom",
+      "frame": {
+        "x": 304,
+        "y": 784,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0567 Loom.png"
+    },
+    "568": {
+      "name": "Pottery Wheel",
+      "frame": {
+        "x": 344,
+        "y": 784,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0568 Pottery Wheel.png"
+    },
+    "569": {
+      "name": "Brewer Vat",
+      "frame": {
+        "x": 392,
+        "y": 784,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0569 Brewer Vat.png"
+    },
+    "570": {
+      "name": "Cheese Press",
+      "frame": {
+        "x": 440,
+        "y": 784,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0570 Cheese Press.png"
+    },
+    "571": {
+      "name": "Bronze Washbasin",
+      "frame": {
+        "x": 16,
+        "y": 848,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0571 Bronze Washbasin.png"
+    },
+    "572": {
+      "name": "Porcelain Washstand",
+      "frame": {
+        "x": 64,
+        "y": 848,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0572 Porcelain Washstand.png"
+    },
+    "573": {
+      "name": "Stone Bathtub",
+      "frame": {
+        "x": 104,
+        "y": 848,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0573 Stone Bathtub.png"
+    },
+    "574": {
+      "name": "Folding Bath Screen",
+      "frame": {
+        "x": 160,
+        "y": 832,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0574 Folding Bath Screen.png"
+    },
+    "575": {
+      "name": "Royal Vanity Mirror",
+      "frame": {
+        "x": 208,
+        "y": 832,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0575 Royal Vanity Mirror.png"
+    },
+    "576": {
+      "name": "Dressing Table",
+      "frame": {
+        "x": 248,
+        "y": 848,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0576 Dressing Table.png"
+    },
+    "577": {
+      "name": "Large Floor Mirror",
+      "frame": {
+        "x": 304,
+        "y": 832,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0577 Large Floor Mirror.png"
+    },
+    "578": {
+      "name": "Laundry Bench",
+      "frame": {
+        "x": 344,
+        "y": 848,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0578 Laundry Bench.png"
+    },
+    "579": {
+      "name": "Wooden Privy Seat",
+      "frame": {
+        "x": 400,
+        "y": 848,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0579 Wooden Privy Seat.png"
+    },
+    "580": {
+      "name": "Towel Cabinet",
+      "frame": {
+        "x": 448,
+        "y": 832,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0580 Towel Cabinet.png"
+    },
+    "581": {
+      "name": "Standing Organ",
+      "frame": {
+        "x": 8,
+        "y": 896,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0581 Standing Organ.png"
+    },
+    "582": {
+      "name": "Gold Harp",
+      "frame": {
+        "x": 56,
+        "y": 880,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0582 Gold Harp.png"
+    },
+    "583": {
+      "name": "Lute Stand",
+      "frame": {
+        "x": 112,
+        "y": 896,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0583 Lute Stand.png"
+    },
+    "584": {
+      "name": "Drum Stand",
+      "frame": {
+        "x": 160,
+        "y": 896,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0584 Drum Stand.png"
+    },
+    "585": {
+      "name": "Easel",
+      "frame": {
+        "x": 208,
+        "y": 880,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0585 Easel.png"
+    },
+    "586": {
+      "name": "Artist Supply Cabinet",
+      "frame": {
+        "x": 256,
+        "y": 880,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0586 Artist Supply Cabinet.png"
+    },
+    "587": {
+      "name": "Trophy Cabinet",
+      "frame": {
+        "x": 304,
+        "y": 880,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0587 Trophy Cabinet.png"
+    },
+    "588": {
+      "name": "Trophy Plinth",
+      "frame": {
+        "x": 352,
+        "y": 896,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0588 Trophy Plinth.png"
+    },
+    "589": {
+      "name": "Lectern With Book",
+      "frame": {
+        "x": 400,
+        "y": 896,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0589 Lectern With Book.png"
+    },
+    "590": {
+      "name": "Church Pew",
+      "frame": {
+        "x": 440,
+        "y": 896,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0590 Church Pew.png"
+    },
+    "591": {
+      "name": "Church Altar Table",
+      "frame": {
+        "x": 8,
+        "y": 944,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0591 Church Altar Table.png"
+    },
+    "592": {
+      "name": "Chapel Candle Table",
+      "frame": {
+        "x": 56,
+        "y": 944,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0592 Chapel Candle Table.png"
+    },
+    "593": {
+      "name": "Dungeon Bunk",
+      "frame": {
+        "x": 112,
+        "y": 928,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0593 Dungeon Bunk.png"
+    },
+    "594": {
+      "name": "Jail Dining Table",
+      "frame": {
+        "x": 152,
+        "y": 944,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0594 Jail Dining Table.png"
+    },
+    "595": {
+      "name": "Barred Storage Cabinet",
+      "frame": {
+        "x": 208,
+        "y": 928,
+        "w": 16,
+        "h": 32
+      },
+      "origin": {
+        "x": 8,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0595 Barred Storage Cabinet.png"
+    },
+    "596": {
+      "name": "Interrogation Desk",
+      "frame": {
+        "x": 248,
+        "y": 944,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0596 Interrogation Desk.png"
+    },
+    "597": {
+      "name": "Embalming Table",
+      "frame": {
+        "x": 296,
+        "y": 944,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0597 Embalming Table.png"
+    },
+    "598": {
+      "name": "Operating Table",
+      "frame": {
+        "x": 344,
+        "y": 944,
+        "w": 32,
+        "h": 16
+      },
+      "origin": {
+        "x": 16,
+        "y": 16
+      },
+      "source": "Sprites/Furniture/0598 Operating Table.png"
+    },
+    "599": {
+      "name": "Sarcophagus Closed",
+      "frame": {
+        "x": 392,
+        "y": 928,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0599 Sarcophagus Closed.png"
+    },
+    "600": {
+      "name": "Sarcophagus Open",
+      "frame": {
+        "x": 440,
+        "y": 928,
+        "w": 32,
+        "h": 32
+      },
+      "origin": {
+        "x": 16,
+        "y": 32
+      },
+      "source": "Sprites/Furniture/0600 Sarcophagus Open.png"
+    }
+  }
+}

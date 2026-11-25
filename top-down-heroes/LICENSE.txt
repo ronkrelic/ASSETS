@@ -1,0 +1,31 @@
+Top-Down Heroes: asset license
+
+Copyright (c) 2026 Pixelwright Studio. All rights reserved except as granted below.
+
+Ownership
+We own this content and keep ownership of it. Buying or downloading it gives you a license to use
+it. It does not transfer ownership.
+
+You may
+- Use the content in your own personal and commercial projects: games, apps, videos, streams,
+  trailers and other media, including projects you sell or monetise.
+- Edit, recolour, crop, trim, loop, combine and convert it to fit your project.
+- Ship it inside your finished project (the game build, the app, the rendered video).
+- Use it in as many of your own projects as you like. One license covers you and your own team or
+  studio.
+
+You may not
+- Redistribute the content on its own: no reselling, sharing, uploading or giving away the files,
+  edited or not, alone or inside another asset pack, template, bundle, library or collection, free
+  or paid.
+- Claim the content as your own work, or register it with Content ID or any similar claim system.
+- Use the content, or anything made from it, to train, fine-tune or test an AI or machine learning
+  model, or add it to a dataset for that purpose.
+- Mint or sell it as NFTs.
+
+Credit
+Credit is appreciated and not required: "Characters: Top-Down Heroes by Pixelwright Studio".
+
+No warranty
+The content is provided as is, with no warranty of any kind. The author is not liable for any loss
+arising from its use.

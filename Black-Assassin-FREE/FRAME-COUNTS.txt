@@ -1,0 +1,71 @@
+BLACK ASSASSIN — FRAME COUNTS
+
+IDLE
+  south: 8 frames
+  south-east: 8 frames
+  east: 8 frames
+  north-east: 8 frames
+  north: 8 frames
+  north-west: 8 frames
+  west: 8 frames
+  south-west: 8 frames
+
+WALK
+  south: 8 frames
+  south-east: 8 frames
+  east: 8 frames
+  north-east: 8 frames
+  north: 8 frames
+  north-west: 8 frames
+  west: 8 frames
+  south-west: 8 frames
+
+RUN
+  south: 8 frames
+  south-east: 8 frames
+  east: 8 frames
+  north-east: 8 frames
+  north: 8 frames
+  north-west: 8 frames
+  west: 8 frames
+  south-west: 8 frames
+
+JUMP
+  south: 9 frames
+  south-east: 9 frames
+  east: 9 frames
+  north-east: 9 frames
+  north: 9 frames
+  north-west: 9 frames
+  west: 9 frames
+  south-west: 9 frames
+
+DAGGER-SLASH
+  south: 7 frames
+  south-east: 8 frames
+  east: 9 frames
+  north-east: 8 frames
+  north: 7 frames
+  north-west: 8 frames
+  west: 11 frames
+  south-west: 8 frames
+
+THROW
+  south: 8 frames
+  south-east: 9 frames
+  east: 9 frames
+  north-east: 9 frames
+  north: 9 frames
+  north-west: 9 frames
+  west: 9 frames
+  south-west: 9 frames
+
+BONUS-RISING-SLASH
+  south: 8 frames
+  south-east: 3 frames
+  east: 0 frames
+  north-east: 8 frames
+  north: 0 frames
+  north-west: 0 frames
+  west: 0 frames
+  south-west: 0 frames

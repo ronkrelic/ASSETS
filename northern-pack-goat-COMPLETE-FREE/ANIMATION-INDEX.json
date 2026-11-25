@@ -1,0 +1,53 @@
+{
+  "Loaded_Idle": {
+    "south": 20,
+    "south-east": 20,
+    "east": 20,
+    "north-east": 22,
+    "north": 10,
+    "north-west": 12,
+    "west": 20,
+    "south-west": 20
+  },
+  "Loaded_Stride": {
+    "south": 13,
+    "south-east": 8,
+    "east": 13,
+    "north-east": 8,
+    "north": 8,
+    "north-west": 8,
+    "west": 13,
+    "south-west": 8
+  },
+  "Loaded_Walk": {
+    "south": 13,
+    "south-east": 10,
+    "east": 13,
+    "north-east": 10,
+    "north": 13,
+    "north-west": 10,
+    "west": 13,
+    "south-west": 10
+  },
+  "Unloaded_Walk": {
+    "south": 10,
+    "south-east": 13,
+    "east": 12,
+    "north-east": 10,
+    "north": 12,
+    "north-west": 10,
+    "west": 12,
+    "south-west": 13
+  },
+  "Unloaded_Idle": {
+    "south": 11,
+    "south-east": 19,
+    "east": 12,
+    "east-alternate-1": 20,
+    "north-east": 8,
+    "north": 9,
+    "north-west": 12,
+    "west": 20,
+    "south-west": 19
+  }
+}

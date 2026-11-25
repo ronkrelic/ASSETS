@@ -1,0 +1,2810 @@
+{
+  "image": "Floors.png",
+  "width": 320,
+  "height": 160,
+  "slotWidth": 16,
+  "slotHeight": 16,
+  "columns": 20,
+  "frames": {
+    "201": {
+      "name": "Honey Oak Floor Border Neighbours None",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0201 Honey Oak Floor Border Neighbours None.png"
+    },
+    "202": {
+      "name": "Honey Oak Floor Border Neighbours N",
+      "frame": {
+        "x": 16,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0202 Honey Oak Floor Border Neighbours N.png"
+    },
+    "203": {
+      "name": "Honey Oak Floor Border Neighbours E",
+      "frame": {
+        "x": 32,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0203 Honey Oak Floor Border Neighbours E.png"
+    },
+    "204": {
+      "name": "Honey Oak Floor Border Neighbours Ne",
+      "frame": {
+        "x": 48,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0204 Honey Oak Floor Border Neighbours Ne.png"
+    },
+    "205": {
+      "name": "Honey Oak Floor Border Neighbours S",
+      "frame": {
+        "x": 64,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0205 Honey Oak Floor Border Neighbours S.png"
+    },
+    "206": {
+      "name": "Honey Oak Floor Border Neighbours Ns",
+      "frame": {
+        "x": 80,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0206 Honey Oak Floor Border Neighbours Ns.png"
+    },
+    "207": {
+      "name": "Honey Oak Floor Border Neighbours Es",
+      "frame": {
+        "x": 96,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0207 Honey Oak Floor Border Neighbours Es.png"
+    },
+    "208": {
+      "name": "Honey Oak Floor Border Neighbours Nes",
+      "frame": {
+        "x": 112,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0208 Honey Oak Floor Border Neighbours Nes.png"
+    },
+    "209": {
+      "name": "Honey Oak Floor Border Neighbours W",
+      "frame": {
+        "x": 128,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0209 Honey Oak Floor Border Neighbours W.png"
+    },
+    "210": {
+      "name": "Honey Oak Floor Border Neighbours Nw",
+      "frame": {
+        "x": 144,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0210 Honey Oak Floor Border Neighbours Nw.png"
+    },
+    "211": {
+      "name": "Honey Oak Floor Border Neighbours Ew",
+      "frame": {
+        "x": 160,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0211 Honey Oak Floor Border Neighbours Ew.png"
+    },
+    "212": {
+      "name": "Honey Oak Floor Border Neighbours New",
+      "frame": {
+        "x": 176,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0212 Honey Oak Floor Border Neighbours New.png"
+    },
+    "213": {
+      "name": "Honey Oak Floor Border Neighbours Sw",
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0213 Honey Oak Floor Border Neighbours Sw.png"
+    },
+    "214": {
+      "name": "Honey Oak Floor Border Neighbours Nsw",
+      "frame": {
+        "x": 208,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0214 Honey Oak Floor Border Neighbours Nsw.png"
+    },
+    "215": {
+      "name": "Honey Oak Floor Border Neighbours Esw",
+      "frame": {
+        "x": 224,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0215 Honey Oak Floor Border Neighbours Esw.png"
+    },
+    "216": {
+      "name": "Honey Oak Floor Border Neighbours Nesw",
+      "frame": {
+        "x": 240,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0216 Honey Oak Floor Border Neighbours Nesw.png"
+    },
+    "217": {
+      "name": "Honey Oak Floor Interior Variation 1",
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0217 Honey Oak Floor Interior Variation 1.png"
+    },
+    "218": {
+      "name": "Honey Oak Floor Interior Variation 2",
+      "frame": {
+        "x": 272,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0218 Honey Oak Floor Interior Variation 2.png"
+    },
+    "219": {
+      "name": "Honey Oak Floor Interior Variation 3",
+      "frame": {
+        "x": 288,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0219 Honey Oak Floor Interior Variation 3.png"
+    },
+    "220": {
+      "name": "Honey Oak Floor Interior Variation 4",
+      "frame": {
+        "x": 304,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0220 Honey Oak Floor Interior Variation 4.png"
+    },
+    "221": {
+      "name": "Walnut Floor Border Neighbours None",
+      "frame": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0221 Walnut Floor Border Neighbours None.png"
+    },
+    "222": {
+      "name": "Walnut Floor Border Neighbours N",
+      "frame": {
+        "x": 16,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0222 Walnut Floor Border Neighbours N.png"
+    },
+    "223": {
+      "name": "Walnut Floor Border Neighbours E",
+      "frame": {
+        "x": 32,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0223 Walnut Floor Border Neighbours E.png"
+    },
+    "224": {
+      "name": "Walnut Floor Border Neighbours Ne",
+      "frame": {
+        "x": 48,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0224 Walnut Floor Border Neighbours Ne.png"
+    },
+    "225": {
+      "name": "Walnut Floor Border Neighbours S",
+      "frame": {
+        "x": 64,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0225 Walnut Floor Border Neighbours S.png"
+    },
+    "226": {
+      "name": "Walnut Floor Border Neighbours Ns",
+      "frame": {
+        "x": 80,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0226 Walnut Floor Border Neighbours Ns.png"
+    },
+    "227": {
+      "name": "Walnut Floor Border Neighbours Es",
+      "frame": {
+        "x": 96,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0227 Walnut Floor Border Neighbours Es.png"
+    },
+    "228": {
+      "name": "Walnut Floor Border Neighbours Nes",
+      "frame": {
+        "x": 112,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0228 Walnut Floor Border Neighbours Nes.png"
+    },
+    "229": {
+      "name": "Walnut Floor Border Neighbours W",
+      "frame": {
+        "x": 128,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0229 Walnut Floor Border Neighbours W.png"
+    },
+    "230": {
+      "name": "Walnut Floor Border Neighbours Nw",
+      "frame": {
+        "x": 144,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0230 Walnut Floor Border Neighbours Nw.png"
+    },
+    "231": {
+      "name": "Walnut Floor Border Neighbours Ew",
+      "frame": {
+        "x": 160,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0231 Walnut Floor Border Neighbours Ew.png"
+    },
+    "232": {
+      "name": "Walnut Floor Border Neighbours New",
+      "frame": {
+        "x": 176,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0232 Walnut Floor Border Neighbours New.png"
+    },
+    "233": {
+      "name": "Walnut Floor Border Neighbours Sw",
+      "frame": {
+        "x": 192,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0233 Walnut Floor Border Neighbours Sw.png"
+    },
+    "234": {
+      "name": "Walnut Floor Border Neighbours Nsw",
+      "frame": {
+        "x": 208,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0234 Walnut Floor Border Neighbours Nsw.png"
+    },
+    "235": {
+      "name": "Walnut Floor Border Neighbours Esw",
+      "frame": {
+        "x": 224,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0235 Walnut Floor Border Neighbours Esw.png"
+    },
+    "236": {
+      "name": "Walnut Floor Border Neighbours Nesw",
+      "frame": {
+        "x": 240,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0236 Walnut Floor Border Neighbours Nesw.png"
+    },
+    "237": {
+      "name": "Walnut Floor Interior Variation 1",
+      "frame": {
+        "x": 256,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0237 Walnut Floor Interior Variation 1.png"
+    },
+    "238": {
+      "name": "Walnut Floor Interior Variation 2",
+      "frame": {
+        "x": 272,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0238 Walnut Floor Interior Variation 2.png"
+    },
+    "239": {
+      "name": "Walnut Floor Interior Variation 3",
+      "frame": {
+        "x": 288,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0239 Walnut Floor Interior Variation 3.png"
+    },
+    "240": {
+      "name": "Walnut Floor Interior Variation 4",
+      "frame": {
+        "x": 304,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0240 Walnut Floor Interior Variation 4.png"
+    },
+    "241": {
+      "name": "Parquet Floor Border Neighbours None",
+      "frame": {
+        "x": 0,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0241 Parquet Floor Border Neighbours None.png"
+    },
+    "242": {
+      "name": "Parquet Floor Border Neighbours N",
+      "frame": {
+        "x": 16,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0242 Parquet Floor Border Neighbours N.png"
+    },
+    "243": {
+      "name": "Parquet Floor Border Neighbours E",
+      "frame": {
+        "x": 32,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0243 Parquet Floor Border Neighbours E.png"
+    },
+    "244": {
+      "name": "Parquet Floor Border Neighbours Ne",
+      "frame": {
+        "x": 48,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0244 Parquet Floor Border Neighbours Ne.png"
+    },
+    "245": {
+      "name": "Parquet Floor Border Neighbours S",
+      "frame": {
+        "x": 64,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0245 Parquet Floor Border Neighbours S.png"
+    },
+    "246": {
+      "name": "Parquet Floor Border Neighbours Ns",
+      "frame": {
+        "x": 80,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0246 Parquet Floor Border Neighbours Ns.png"
+    },
+    "247": {
+      "name": "Parquet Floor Border Neighbours Es",
+      "frame": {
+        "x": 96,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0247 Parquet Floor Border Neighbours Es.png"
+    },
+    "248": {
+      "name": "Parquet Floor Border Neighbours Nes",
+      "frame": {
+        "x": 112,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0248 Parquet Floor Border Neighbours Nes.png"
+    },
+    "249": {
+      "name": "Parquet Floor Border Neighbours W",
+      "frame": {
+        "x": 128,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0249 Parquet Floor Border Neighbours W.png"
+    },
+    "250": {
+      "name": "Parquet Floor Border Neighbours Nw",
+      "frame": {
+        "x": 144,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0250 Parquet Floor Border Neighbours Nw.png"
+    },
+    "251": {
+      "name": "Parquet Floor Border Neighbours Ew",
+      "frame": {
+        "x": 160,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0251 Parquet Floor Border Neighbours Ew.png"
+    },
+    "252": {
+      "name": "Parquet Floor Border Neighbours New",
+      "frame": {
+        "x": 176,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0252 Parquet Floor Border Neighbours New.png"
+    },
+    "253": {
+      "name": "Parquet Floor Border Neighbours Sw",
+      "frame": {
+        "x": 192,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0253 Parquet Floor Border Neighbours Sw.png"
+    },
+    "254": {
+      "name": "Parquet Floor Border Neighbours Nsw",
+      "frame": {
+        "x": 208,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0254 Parquet Floor Border Neighbours Nsw.png"
+    },
+    "255": {
+      "name": "Parquet Floor Border Neighbours Esw",
+      "frame": {
+        "x": 224,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0255 Parquet Floor Border Neighbours Esw.png"
+    },
+    "256": {
+      "name": "Parquet Floor Border Neighbours Nesw",
+      "frame": {
+        "x": 240,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0256 Parquet Floor Border Neighbours Nesw.png"
+    },
+    "257": {
+      "name": "Parquet Floor Interior Variation 1",
+      "frame": {
+        "x": 256,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0257 Parquet Floor Interior Variation 1.png"
+    },
+    "258": {
+      "name": "Parquet Floor Interior Variation 2",
+      "frame": {
+        "x": 272,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0258 Parquet Floor Interior Variation 2.png"
+    },
+    "259": {
+      "name": "Parquet Floor Interior Variation 3",
+      "frame": {
+        "x": 288,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0259 Parquet Floor Interior Variation 3.png"
+    },
+    "260": {
+      "name": "Parquet Floor Interior Variation 4",
+      "frame": {
+        "x": 304,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0260 Parquet Floor Interior Variation 4.png"
+    },
+    "261": {
+      "name": "Limestone Floor Border Neighbours None",
+      "frame": {
+        "x": 0,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0261 Limestone Floor Border Neighbours None.png"
+    },
+    "262": {
+      "name": "Limestone Floor Border Neighbours N",
+      "frame": {
+        "x": 16,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0262 Limestone Floor Border Neighbours N.png"
+    },
+    "263": {
+      "name": "Limestone Floor Border Neighbours E",
+      "frame": {
+        "x": 32,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0263 Limestone Floor Border Neighbours E.png"
+    },
+    "264": {
+      "name": "Limestone Floor Border Neighbours Ne",
+      "frame": {
+        "x": 48,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0264 Limestone Floor Border Neighbours Ne.png"
+    },
+    "265": {
+      "name": "Limestone Floor Border Neighbours S",
+      "frame": {
+        "x": 64,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0265 Limestone Floor Border Neighbours S.png"
+    },
+    "266": {
+      "name": "Limestone Floor Border Neighbours Ns",
+      "frame": {
+        "x": 80,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0266 Limestone Floor Border Neighbours Ns.png"
+    },
+    "267": {
+      "name": "Limestone Floor Border Neighbours Es",
+      "frame": {
+        "x": 96,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0267 Limestone Floor Border Neighbours Es.png"
+    },
+    "268": {
+      "name": "Limestone Floor Border Neighbours Nes",
+      "frame": {
+        "x": 112,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0268 Limestone Floor Border Neighbours Nes.png"
+    },
+    "269": {
+      "name": "Limestone Floor Border Neighbours W",
+      "frame": {
+        "x": 128,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0269 Limestone Floor Border Neighbours W.png"
+    },
+    "270": {
+      "name": "Limestone Floor Border Neighbours Nw",
+      "frame": {
+        "x": 144,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0270 Limestone Floor Border Neighbours Nw.png"
+    },
+    "271": {
+      "name": "Limestone Floor Border Neighbours Ew",
+      "frame": {
+        "x": 160,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0271 Limestone Floor Border Neighbours Ew.png"
+    },
+    "272": {
+      "name": "Limestone Floor Border Neighbours New",
+      "frame": {
+        "x": 176,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0272 Limestone Floor Border Neighbours New.png"
+    },
+    "273": {
+      "name": "Limestone Floor Border Neighbours Sw",
+      "frame": {
+        "x": 192,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0273 Limestone Floor Border Neighbours Sw.png"
+    },
+    "274": {
+      "name": "Limestone Floor Border Neighbours Nsw",
+      "frame": {
+        "x": 208,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0274 Limestone Floor Border Neighbours Nsw.png"
+    },
+    "275": {
+      "name": "Limestone Floor Border Neighbours Esw",
+      "frame": {
+        "x": 224,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0275 Limestone Floor Border Neighbours Esw.png"
+    },
+    "276": {
+      "name": "Limestone Floor Border Neighbours Nesw",
+      "frame": {
+        "x": 240,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0276 Limestone Floor Border Neighbours Nesw.png"
+    },
+    "277": {
+      "name": "Limestone Floor Interior Variation 1",
+      "frame": {
+        "x": 256,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0277 Limestone Floor Interior Variation 1.png"
+    },
+    "278": {
+      "name": "Limestone Floor Interior Variation 2",
+      "frame": {
+        "x": 272,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0278 Limestone Floor Interior Variation 2.png"
+    },
+    "279": {
+      "name": "Limestone Floor Interior Variation 3",
+      "frame": {
+        "x": 288,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0279 Limestone Floor Interior Variation 3.png"
+    },
+    "280": {
+      "name": "Limestone Floor Interior Variation 4",
+      "frame": {
+        "x": 304,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0280 Limestone Floor Interior Variation 4.png"
+    },
+    "281": {
+      "name": "Slate Floor Border Neighbours None",
+      "frame": {
+        "x": 0,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0281 Slate Floor Border Neighbours None.png"
+    },
+    "282": {
+      "name": "Slate Floor Border Neighbours N",
+      "frame": {
+        "x": 16,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0282 Slate Floor Border Neighbours N.png"
+    },
+    "283": {
+      "name": "Slate Floor Border Neighbours E",
+      "frame": {
+        "x": 32,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0283 Slate Floor Border Neighbours E.png"
+    },
+    "284": {
+      "name": "Slate Floor Border Neighbours Ne",
+      "frame": {
+        "x": 48,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0284 Slate Floor Border Neighbours Ne.png"
+    },
+    "285": {
+      "name": "Slate Floor Border Neighbours S",
+      "frame": {
+        "x": 64,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0285 Slate Floor Border Neighbours S.png"
+    },
+    "286": {
+      "name": "Slate Floor Border Neighbours Ns",
+      "frame": {
+        "x": 80,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0286 Slate Floor Border Neighbours Ns.png"
+    },
+    "287": {
+      "name": "Slate Floor Border Neighbours Es",
+      "frame": {
+        "x": 96,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0287 Slate Floor Border Neighbours Es.png"
+    },
+    "288": {
+      "name": "Slate Floor Border Neighbours Nes",
+      "frame": {
+        "x": 112,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0288 Slate Floor Border Neighbours Nes.png"
+    },
+    "289": {
+      "name": "Slate Floor Border Neighbours W",
+      "frame": {
+        "x": 128,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0289 Slate Floor Border Neighbours W.png"
+    },
+    "290": {
+      "name": "Slate Floor Border Neighbours Nw",
+      "frame": {
+        "x": 144,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0290 Slate Floor Border Neighbours Nw.png"
+    },
+    "291": {
+      "name": "Slate Floor Border Neighbours Ew",
+      "frame": {
+        "x": 160,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0291 Slate Floor Border Neighbours Ew.png"
+    },
+    "292": {
+      "name": "Slate Floor Border Neighbours New",
+      "frame": {
+        "x": 176,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0292 Slate Floor Border Neighbours New.png"
+    },
+    "293": {
+      "name": "Slate Floor Border Neighbours Sw",
+      "frame": {
+        "x": 192,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0293 Slate Floor Border Neighbours Sw.png"
+    },
+    "294": {
+      "name": "Slate Floor Border Neighbours Nsw",
+      "frame": {
+        "x": 208,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0294 Slate Floor Border Neighbours Nsw.png"
+    },
+    "295": {
+      "name": "Slate Floor Border Neighbours Esw",
+      "frame": {
+        "x": 224,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0295 Slate Floor Border Neighbours Esw.png"
+    },
+    "296": {
+      "name": "Slate Floor Border Neighbours Nesw",
+      "frame": {
+        "x": 240,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0296 Slate Floor Border Neighbours Nesw.png"
+    },
+    "297": {
+      "name": "Slate Floor Interior Variation 1",
+      "frame": {
+        "x": 256,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0297 Slate Floor Interior Variation 1.png"
+    },
+    "298": {
+      "name": "Slate Floor Interior Variation 2",
+      "frame": {
+        "x": 272,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0298 Slate Floor Interior Variation 2.png"
+    },
+    "299": {
+      "name": "Slate Floor Interior Variation 3",
+      "frame": {
+        "x": 288,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0299 Slate Floor Interior Variation 3.png"
+    },
+    "300": {
+      "name": "Slate Floor Interior Variation 4",
+      "frame": {
+        "x": 304,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0300 Slate Floor Interior Variation 4.png"
+    },
+    "301": {
+      "name": "Basalt Floor Border Neighbours None",
+      "frame": {
+        "x": 0,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0301 Basalt Floor Border Neighbours None.png"
+    },
+    "302": {
+      "name": "Basalt Floor Border Neighbours N",
+      "frame": {
+        "x": 16,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0302 Basalt Floor Border Neighbours N.png"
+    },
+    "303": {
+      "name": "Basalt Floor Border Neighbours E",
+      "frame": {
+        "x": 32,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0303 Basalt Floor Border Neighbours E.png"
+    },
+    "304": {
+      "name": "Basalt Floor Border Neighbours Ne",
+      "frame": {
+        "x": 48,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0304 Basalt Floor Border Neighbours Ne.png"
+    },
+    "305": {
+      "name": "Basalt Floor Border Neighbours S",
+      "frame": {
+        "x": 64,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0305 Basalt Floor Border Neighbours S.png"
+    },
+    "306": {
+      "name": "Basalt Floor Border Neighbours Ns",
+      "frame": {
+        "x": 80,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0306 Basalt Floor Border Neighbours Ns.png"
+    },
+    "307": {
+      "name": "Basalt Floor Border Neighbours Es",
+      "frame": {
+        "x": 96,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0307 Basalt Floor Border Neighbours Es.png"
+    },
+    "308": {
+      "name": "Basalt Floor Border Neighbours Nes",
+      "frame": {
+        "x": 112,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0308 Basalt Floor Border Neighbours Nes.png"
+    },
+    "309": {
+      "name": "Basalt Floor Border Neighbours W",
+      "frame": {
+        "x": 128,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0309 Basalt Floor Border Neighbours W.png"
+    },
+    "310": {
+      "name": "Basalt Floor Border Neighbours Nw",
+      "frame": {
+        "x": 144,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0310 Basalt Floor Border Neighbours Nw.png"
+    },
+    "311": {
+      "name": "Basalt Floor Border Neighbours Ew",
+      "frame": {
+        "x": 160,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0311 Basalt Floor Border Neighbours Ew.png"
+    },
+    "312": {
+      "name": "Basalt Floor Border Neighbours New",
+      "frame": {
+        "x": 176,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0312 Basalt Floor Border Neighbours New.png"
+    },
+    "313": {
+      "name": "Basalt Floor Border Neighbours Sw",
+      "frame": {
+        "x": 192,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0313 Basalt Floor Border Neighbours Sw.png"
+    },
+    "314": {
+      "name": "Basalt Floor Border Neighbours Nsw",
+      "frame": {
+        "x": 208,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0314 Basalt Floor Border Neighbours Nsw.png"
+    },
+    "315": {
+      "name": "Basalt Floor Border Neighbours Esw",
+      "frame": {
+        "x": 224,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0315 Basalt Floor Border Neighbours Esw.png"
+    },
+    "316": {
+      "name": "Basalt Floor Border Neighbours Nesw",
+      "frame": {
+        "x": 240,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0316 Basalt Floor Border Neighbours Nesw.png"
+    },
+    "317": {
+      "name": "Basalt Floor Interior Variation 1",
+      "frame": {
+        "x": 256,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0317 Basalt Floor Interior Variation 1.png"
+    },
+    "318": {
+      "name": "Basalt Floor Interior Variation 2",
+      "frame": {
+        "x": 272,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0318 Basalt Floor Interior Variation 2.png"
+    },
+    "319": {
+      "name": "Basalt Floor Interior Variation 3",
+      "frame": {
+        "x": 288,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0319 Basalt Floor Interior Variation 3.png"
+    },
+    "320": {
+      "name": "Basalt Floor Interior Variation 4",
+      "frame": {
+        "x": 304,
+        "y": 80,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0320 Basalt Floor Interior Variation 4.png"
+    },
+    "321": {
+      "name": "Brick Paving Floor Border Neighbours None",
+      "frame": {
+        "x": 0,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0321 Brick Paving Floor Border Neighbours None.png"
+    },
+    "322": {
+      "name": "Brick Paving Floor Border Neighbours N",
+      "frame": {
+        "x": 16,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0322 Brick Paving Floor Border Neighbours N.png"
+    },
+    "323": {
+      "name": "Brick Paving Floor Border Neighbours E",
+      "frame": {
+        "x": 32,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0323 Brick Paving Floor Border Neighbours E.png"
+    },
+    "324": {
+      "name": "Brick Paving Floor Border Neighbours Ne",
+      "frame": {
+        "x": 48,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0324 Brick Paving Floor Border Neighbours Ne.png"
+    },
+    "325": {
+      "name": "Brick Paving Floor Border Neighbours S",
+      "frame": {
+        "x": 64,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0325 Brick Paving Floor Border Neighbours S.png"
+    },
+    "326": {
+      "name": "Brick Paving Floor Border Neighbours Ns",
+      "frame": {
+        "x": 80,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0326 Brick Paving Floor Border Neighbours Ns.png"
+    },
+    "327": {
+      "name": "Brick Paving Floor Border Neighbours Es",
+      "frame": {
+        "x": 96,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0327 Brick Paving Floor Border Neighbours Es.png"
+    },
+    "328": {
+      "name": "Brick Paving Floor Border Neighbours Nes",
+      "frame": {
+        "x": 112,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0328 Brick Paving Floor Border Neighbours Nes.png"
+    },
+    "329": {
+      "name": "Brick Paving Floor Border Neighbours W",
+      "frame": {
+        "x": 128,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0329 Brick Paving Floor Border Neighbours W.png"
+    },
+    "330": {
+      "name": "Brick Paving Floor Border Neighbours Nw",
+      "frame": {
+        "x": 144,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0330 Brick Paving Floor Border Neighbours Nw.png"
+    },
+    "331": {
+      "name": "Brick Paving Floor Border Neighbours Ew",
+      "frame": {
+        "x": 160,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0331 Brick Paving Floor Border Neighbours Ew.png"
+    },
+    "332": {
+      "name": "Brick Paving Floor Border Neighbours New",
+      "frame": {
+        "x": 176,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0332 Brick Paving Floor Border Neighbours New.png"
+    },
+    "333": {
+      "name": "Brick Paving Floor Border Neighbours Sw",
+      "frame": {
+        "x": 192,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0333 Brick Paving Floor Border Neighbours Sw.png"
+    },
+    "334": {
+      "name": "Brick Paving Floor Border Neighbours Nsw",
+      "frame": {
+        "x": 208,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0334 Brick Paving Floor Border Neighbours Nsw.png"
+    },
+    "335": {
+      "name": "Brick Paving Floor Border Neighbours Esw",
+      "frame": {
+        "x": 224,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0335 Brick Paving Floor Border Neighbours Esw.png"
+    },
+    "336": {
+      "name": "Brick Paving Floor Border Neighbours Nesw",
+      "frame": {
+        "x": 240,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0336 Brick Paving Floor Border Neighbours Nesw.png"
+    },
+    "337": {
+      "name": "Brick Paving Floor Interior Variation 1",
+      "frame": {
+        "x": 256,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0337 Brick Paving Floor Interior Variation 1.png"
+    },
+    "338": {
+      "name": "Brick Paving Floor Interior Variation 2",
+      "frame": {
+        "x": 272,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0338 Brick Paving Floor Interior Variation 2.png"
+    },
+    "339": {
+      "name": "Brick Paving Floor Interior Variation 3",
+      "frame": {
+        "x": 288,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0339 Brick Paving Floor Interior Variation 3.png"
+    },
+    "340": {
+      "name": "Brick Paving Floor Interior Variation 4",
+      "frame": {
+        "x": 304,
+        "y": 96,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0340 Brick Paving Floor Interior Variation 4.png"
+    },
+    "341": {
+      "name": "Moss Stone Floor Border Neighbours None",
+      "frame": {
+        "x": 0,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0341 Moss Stone Floor Border Neighbours None.png"
+    },
+    "342": {
+      "name": "Moss Stone Floor Border Neighbours N",
+      "frame": {
+        "x": 16,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0342 Moss Stone Floor Border Neighbours N.png"
+    },
+    "343": {
+      "name": "Moss Stone Floor Border Neighbours E",
+      "frame": {
+        "x": 32,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0343 Moss Stone Floor Border Neighbours E.png"
+    },
+    "344": {
+      "name": "Moss Stone Floor Border Neighbours Ne",
+      "frame": {
+        "x": 48,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0344 Moss Stone Floor Border Neighbours Ne.png"
+    },
+    "345": {
+      "name": "Moss Stone Floor Border Neighbours S",
+      "frame": {
+        "x": 64,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0345 Moss Stone Floor Border Neighbours S.png"
+    },
+    "346": {
+      "name": "Moss Stone Floor Border Neighbours Ns",
+      "frame": {
+        "x": 80,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0346 Moss Stone Floor Border Neighbours Ns.png"
+    },
+    "347": {
+      "name": "Moss Stone Floor Border Neighbours Es",
+      "frame": {
+        "x": 96,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0347 Moss Stone Floor Border Neighbours Es.png"
+    },
+    "348": {
+      "name": "Moss Stone Floor Border Neighbours Nes",
+      "frame": {
+        "x": 112,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0348 Moss Stone Floor Border Neighbours Nes.png"
+    },
+    "349": {
+      "name": "Moss Stone Floor Border Neighbours W",
+      "frame": {
+        "x": 128,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0349 Moss Stone Floor Border Neighbours W.png"
+    },
+    "350": {
+      "name": "Moss Stone Floor Border Neighbours Nw",
+      "frame": {
+        "x": 144,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0350 Moss Stone Floor Border Neighbours Nw.png"
+    },
+    "351": {
+      "name": "Moss Stone Floor Border Neighbours Ew",
+      "frame": {
+        "x": 160,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0351 Moss Stone Floor Border Neighbours Ew.png"
+    },
+    "352": {
+      "name": "Moss Stone Floor Border Neighbours New",
+      "frame": {
+        "x": 176,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0352 Moss Stone Floor Border Neighbours New.png"
+    },
+    "353": {
+      "name": "Moss Stone Floor Border Neighbours Sw",
+      "frame": {
+        "x": 192,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0353 Moss Stone Floor Border Neighbours Sw.png"
+    },
+    "354": {
+      "name": "Moss Stone Floor Border Neighbours Nsw",
+      "frame": {
+        "x": 208,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0354 Moss Stone Floor Border Neighbours Nsw.png"
+    },
+    "355": {
+      "name": "Moss Stone Floor Border Neighbours Esw",
+      "frame": {
+        "x": 224,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0355 Moss Stone Floor Border Neighbours Esw.png"
+    },
+    "356": {
+      "name": "Moss Stone Floor Border Neighbours Nesw",
+      "frame": {
+        "x": 240,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0356 Moss Stone Floor Border Neighbours Nesw.png"
+    },
+    "357": {
+      "name": "Moss Stone Floor Interior Variation 1",
+      "frame": {
+        "x": 256,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0357 Moss Stone Floor Interior Variation 1.png"
+    },
+    "358": {
+      "name": "Moss Stone Floor Interior Variation 2",
+      "frame": {
+        "x": 272,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0358 Moss Stone Floor Interior Variation 2.png"
+    },
+    "359": {
+      "name": "Moss Stone Floor Interior Variation 3",
+      "frame": {
+        "x": 288,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0359 Moss Stone Floor Interior Variation 3.png"
+    },
+    "360": {
+      "name": "Moss Stone Floor Interior Variation 4",
+      "frame": {
+        "x": 304,
+        "y": 112,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0360 Moss Stone Floor Interior Variation 4.png"
+    },
+    "361": {
+      "name": "Ivory Marble Floor Border Neighbours None",
+      "frame": {
+        "x": 0,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0361 Ivory Marble Floor Border Neighbours None.png"
+    },
+    "362": {
+      "name": "Ivory Marble Floor Border Neighbours N",
+      "frame": {
+        "x": 16,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0362 Ivory Marble Floor Border Neighbours N.png"
+    },
+    "363": {
+      "name": "Ivory Marble Floor Border Neighbours E",
+      "frame": {
+        "x": 32,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0363 Ivory Marble Floor Border Neighbours E.png"
+    },
+    "364": {
+      "name": "Ivory Marble Floor Border Neighbours Ne",
+      "frame": {
+        "x": 48,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0364 Ivory Marble Floor Border Neighbours Ne.png"
+    },
+    "365": {
+      "name": "Ivory Marble Floor Border Neighbours S",
+      "frame": {
+        "x": 64,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0365 Ivory Marble Floor Border Neighbours S.png"
+    },
+    "366": {
+      "name": "Ivory Marble Floor Border Neighbours Ns",
+      "frame": {
+        "x": 80,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0366 Ivory Marble Floor Border Neighbours Ns.png"
+    },
+    "367": {
+      "name": "Ivory Marble Floor Border Neighbours Es",
+      "frame": {
+        "x": 96,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0367 Ivory Marble Floor Border Neighbours Es.png"
+    },
+    "368": {
+      "name": "Ivory Marble Floor Border Neighbours Nes",
+      "frame": {
+        "x": 112,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0368 Ivory Marble Floor Border Neighbours Nes.png"
+    },
+    "369": {
+      "name": "Ivory Marble Floor Border Neighbours W",
+      "frame": {
+        "x": 128,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0369 Ivory Marble Floor Border Neighbours W.png"
+    },
+    "370": {
+      "name": "Ivory Marble Floor Border Neighbours Nw",
+      "frame": {
+        "x": 144,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0370 Ivory Marble Floor Border Neighbours Nw.png"
+    },
+    "371": {
+      "name": "Ivory Marble Floor Border Neighbours Ew",
+      "frame": {
+        "x": 160,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0371 Ivory Marble Floor Border Neighbours Ew.png"
+    },
+    "372": {
+      "name": "Ivory Marble Floor Border Neighbours New",
+      "frame": {
+        "x": 176,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0372 Ivory Marble Floor Border Neighbours New.png"
+    },
+    "373": {
+      "name": "Ivory Marble Floor Border Neighbours Sw",
+      "frame": {
+        "x": 192,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0373 Ivory Marble Floor Border Neighbours Sw.png"
+    },
+    "374": {
+      "name": "Ivory Marble Floor Border Neighbours Nsw",
+      "frame": {
+        "x": 208,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0374 Ivory Marble Floor Border Neighbours Nsw.png"
+    },
+    "375": {
+      "name": "Ivory Marble Floor Border Neighbours Esw",
+      "frame": {
+        "x": 224,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0375 Ivory Marble Floor Border Neighbours Esw.png"
+    },
+    "376": {
+      "name": "Ivory Marble Floor Border Neighbours Nesw",
+      "frame": {
+        "x": 240,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0376 Ivory Marble Floor Border Neighbours Nesw.png"
+    },
+    "377": {
+      "name": "Ivory Marble Floor Interior Variation 1",
+      "frame": {
+        "x": 256,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0377 Ivory Marble Floor Interior Variation 1.png"
+    },
+    "378": {
+      "name": "Ivory Marble Floor Interior Variation 2",
+      "frame": {
+        "x": 272,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0378 Ivory Marble Floor Interior Variation 2.png"
+    },
+    "379": {
+      "name": "Ivory Marble Floor Interior Variation 3",
+      "frame": {
+        "x": 288,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0379 Ivory Marble Floor Interior Variation 3.png"
+    },
+    "380": {
+      "name": "Ivory Marble Floor Interior Variation 4",
+      "frame": {
+        "x": 304,
+        "y": 128,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0380 Ivory Marble Floor Interior Variation 4.png"
+    },
+    "381": {
+      "name": "Arcane Stone Floor Border Neighbours None",
+      "frame": {
+        "x": 0,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0381 Arcane Stone Floor Border Neighbours None.png"
+    },
+    "382": {
+      "name": "Arcane Stone Floor Border Neighbours N",
+      "frame": {
+        "x": 16,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0382 Arcane Stone Floor Border Neighbours N.png"
+    },
+    "383": {
+      "name": "Arcane Stone Floor Border Neighbours E",
+      "frame": {
+        "x": 32,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0383 Arcane Stone Floor Border Neighbours E.png"
+    },
+    "384": {
+      "name": "Arcane Stone Floor Border Neighbours Ne",
+      "frame": {
+        "x": 48,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0384 Arcane Stone Floor Border Neighbours Ne.png"
+    },
+    "385": {
+      "name": "Arcane Stone Floor Border Neighbours S",
+      "frame": {
+        "x": 64,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0385 Arcane Stone Floor Border Neighbours S.png"
+    },
+    "386": {
+      "name": "Arcane Stone Floor Border Neighbours Ns",
+      "frame": {
+        "x": 80,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0386 Arcane Stone Floor Border Neighbours Ns.png"
+    },
+    "387": {
+      "name": "Arcane Stone Floor Border Neighbours Es",
+      "frame": {
+        "x": 96,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0387 Arcane Stone Floor Border Neighbours Es.png"
+    },
+    "388": {
+      "name": "Arcane Stone Floor Border Neighbours Nes",
+      "frame": {
+        "x": 112,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0388 Arcane Stone Floor Border Neighbours Nes.png"
+    },
+    "389": {
+      "name": "Arcane Stone Floor Border Neighbours W",
+      "frame": {
+        "x": 128,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0389 Arcane Stone Floor Border Neighbours W.png"
+    },
+    "390": {
+      "name": "Arcane Stone Floor Border Neighbours Nw",
+      "frame": {
+        "x": 144,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0390 Arcane Stone Floor Border Neighbours Nw.png"
+    },
+    "391": {
+      "name": "Arcane Stone Floor Border Neighbours Ew",
+      "frame": {
+        "x": 160,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0391 Arcane Stone Floor Border Neighbours Ew.png"
+    },
+    "392": {
+      "name": "Arcane Stone Floor Border Neighbours New",
+      "frame": {
+        "x": 176,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0392 Arcane Stone Floor Border Neighbours New.png"
+    },
+    "393": {
+      "name": "Arcane Stone Floor Border Neighbours Sw",
+      "frame": {
+        "x": 192,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0393 Arcane Stone Floor Border Neighbours Sw.png"
+    },
+    "394": {
+      "name": "Arcane Stone Floor Border Neighbours Nsw",
+      "frame": {
+        "x": 208,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0394 Arcane Stone Floor Border Neighbours Nsw.png"
+    },
+    "395": {
+      "name": "Arcane Stone Floor Border Neighbours Esw",
+      "frame": {
+        "x": 224,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0395 Arcane Stone Floor Border Neighbours Esw.png"
+    },
+    "396": {
+      "name": "Arcane Stone Floor Border Neighbours Nesw",
+      "frame": {
+        "x": 240,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0396 Arcane Stone Floor Border Neighbours Nesw.png"
+    },
+    "397": {
+      "name": "Arcane Stone Floor Interior Variation 1",
+      "frame": {
+        "x": 256,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0397 Arcane Stone Floor Interior Variation 1.png"
+    },
+    "398": {
+      "name": "Arcane Stone Floor Interior Variation 2",
+      "frame": {
+        "x": 272,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0398 Arcane Stone Floor Interior Variation 2.png"
+    },
+    "399": {
+      "name": "Arcane Stone Floor Interior Variation 3",
+      "frame": {
+        "x": 288,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0399 Arcane Stone Floor Interior Variation 3.png"
+    },
+    "400": {
+      "name": "Arcane Stone Floor Interior Variation 4",
+      "frame": {
+        "x": 304,
+        "y": 144,
+        "w": 16,
+        "h": 16
+      },
+      "origin": {
+        "x": 8,
+        "y": 16
+      },
+      "source": "Sprites/Floors/0400 Arcane Stone Floor Interior Variation 4.png"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Chibi bonus included in this complete free pack. Same license applies.
